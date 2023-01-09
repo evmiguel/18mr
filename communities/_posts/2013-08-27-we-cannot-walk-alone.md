@@ -8,6 +8,7 @@ featured-alt-text: "A photo of an Asian man with a mustache and goatee, in a yel
 tweet: "Our nation does not exist solely in black and white — and it never has."
 facebook: "Our nation does not exist solely in black and white — and it never has."
 blurb: "Our nation does not exist solely in black and white — and it never has. Today, we Americans come in an array of races, colors, religions, gender identities, sexual orientation and ethnicities. The diversity of our country doesn't only make us unique, it makes us strong. Asian Americans are some of the newest contributors to this nation's diversity (many of us arriving after 1965), and with this newness comes responsibility."
+permalink: /2013/08/we-cannot-walk-alone.html
 ---
 
 Four words from Dr. Martin Luther King, Jr.’s “I Have a Dream” speech are ringing in my ears today: ___We cannot walk alone___.

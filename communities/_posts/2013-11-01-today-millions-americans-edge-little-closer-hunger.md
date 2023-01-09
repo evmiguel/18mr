@@ -8,6 +8,7 @@ featured-alt-text: "An infographic. Title: 'Asian Americans & Pacific Islanders 
 tweet: "INFOGRAPHIC: Asian American & Pacific Islander families rely on #SNAP, more than you might think. #AAPI"
 facebook: "The cuts are affecting Asian American & Pacific Islander families differently than you might think."
 blurb: "The cuts are affecting Asian American & Pacific Islander families differently than you might think."
+permalink: /2013/11/today-millions-americans-edge-little-closer-hunger.html
 ---
 
 Today, the cuts from the expiration of the 2009 Recovery Act kick in for over 47 million people. Contrary to what you might think, these cuts are going to hurt Asian American & Pacific Islander families.

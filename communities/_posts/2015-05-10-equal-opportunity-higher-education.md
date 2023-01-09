@@ -8,6 +8,7 @@ featured-alt-text: "Block letters on a black background: 'Fighting for the futur
 tweet: "Join over 35 AAPI organizations fighting back against lies about affirmative action."
 facebook: "Join over 35 AAPI organizations fighting back against lies about affirmative action."
 blurb: "Those who are truly committed to equal educational opportunity should demonstrate real leadership and reinvest in higher education throughout the nation to expand access, affordability, equity, and student success. Decades of disinvestment in higher education across the country have made college less accessible for all students, especially students of color. We call for unity in standing up for the future of our youth and realizing the promise of equal opportunity for all in the United States."
+permalink: /2015/05/equal-opportunity-higher-education.html
 ---
 
 As individuals and organizations across the United States that serve and represent Asian American, Native Hawaiian and Pacific Islander (AANHPI) communities, we believe that equal opportunity is a cherished principle in American society that must be protected. Our universities should reflect our diverse democracy and expand opportunities for those students who have overcome significant barriers. Rather than letting ourselves be divided, we must come together to ensure increased opportunities and success for all students.

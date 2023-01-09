@@ -8,6 +8,7 @@ featured-alt-text: "A drawing with the headline 'Black & Brown Lives Matter' fea
 tweet: "QSANN's statement on Obama's executive action, Ferguson:"
 facebook: "We are a nation of laws that do not protect us. We are a nation of laws designed to keep us out, to keep us scared, and to keep us running."
 blurb: "We live in a nation that doesn’t value our lives. President Barack Obama insists that we live in a “nation of laws.” He’s right; we do. We live in a nation of laws where we, as people of color, as immigrants, are less than human. We are denied the right to be with our families, to feel safe in public space, to be American, to live. We are a nation of laws that do not protect us. We are a nation of laws designed to keep us out, to keep us scared, and to keep us running."
+permalink: /2014/11/week-queer-south-asian-rage.html
 ---
 
 _We live in a nation that doesn’t value our lives._ President Barack Obama insists that we live in a “nation of laws.” He’s right; we do. We live in a nation of laws where we, as people of color, as immigrants, are less than human. We are denied the right to be with our families, to feel safe in public space, to be American, to live. We are a nation of laws that do not protect us. We are a nation of laws designed to keep us out, to keep us scared, and to keep us running.

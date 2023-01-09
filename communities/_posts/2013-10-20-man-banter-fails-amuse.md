@@ -8,6 +8,7 @@ featured-alt-text: "A photo of a smug white man in a polo shirt with an overlay 
 tweet: "#firebabchik Mike @Babchik does work for @siriusxm: he's a producer at @maddogsports. More:"
 facebook: "Contrary to his claims, Mike Babchik DOES work fro SiriusXM: he's a producer at Mad Dog Sports."
 blurb: "Mike Babchik's Man Banter sexually and racially harassed women at New York Comic Con. The kicker? He handed out his professional business card."
+permalink: /2013/10/man-banter-fails-amuse.html
 ---
 
 Mike Babchik's side project, the internet show/public access program _[Man Banter](http://www.youtube.com/manbanter)_, went to New York Comic Con in mid-October with a [camera crew](https://www.facebook.com/newfacemediaprod/posts/643382372360717) to shoot segments for the program, interviewing con goers. Those interviews turned out to be [repulsively violating](http://writersyndrome.tumblr.com/post/63912518764/warning-film-crew-creepers-at-new-york-comic-con) interactions with women cosplayers, like Comic Con presenter and 18MR member Diana M. Pho. We're gonna cut to the chase. This is sexual and racial harassment. It's disgusting.

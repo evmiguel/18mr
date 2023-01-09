@@ -8,6 +8,7 @@ featured-alt-text: "A group of young Lao American women in a variety of stylish 
 tweet: "Don't Sleep on Redding: how the Lao community in Redding, CA did it, together."
 facebook: "How the Lao community in Redding, CA did it, together."
 blurb: "What is 'community organizing'? When a solid team of passionate people come together and identify a problem, and then plan and organize a way to solve it by using their own power, influence, and resources in their own community, across generations, families, and neighborhoods."
+permalink: /2014/06/dont-sleep-redding.html
 ---
 
 What is "community organizing"? When a solid team of passionate people come together and identify a problem, and then plan and organize a way to solve it by using their own power, influence, and resources in their own community, across generations, families, and neighborhoods. 
