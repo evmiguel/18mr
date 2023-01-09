@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Through the Long Winter: A Look Back at Radiolab's Yellow Rain Controversy"
+permalink: /2013/04/through-long-winter-look-back-radiolabs-yellow-rai.html
+slug: through-long-winter-look-back-radiolabs-yellow-rai
 category: culture
 author: Kao Kalia Yang
 featured-image: '/static/images/featured/2013-04-05-through-long-winter-look-back-radiolabs-yellow-rai.jpg'

@@ -9,6 +9,7 @@ tweet: ".@GAPIMNY: A Korean Am state senate hopeful's platform speaks to homopho
 facebook: "For decades, GAPIMNY has fought homophobia, transphobia, and racism on all fronts. NYS Senate candidate S.J. Jung's recent remarks are a reminder of the work that still needs to be done to combat homophobia in Asian American communities."
 blurb: "A NYS Senate candidate's homophobic remarks are a testament to the importance of GAPIMNY's work to challenge both racism in the LGBTQ community and homophobia and transphobia in AAPI communities."
 permalink: /2016/08/gay-asian-group-condemns-candidates-comments-on-LGBTQ-people.html
+slug: gay-asian-group-condemns-candidates-comments-on-LGBTQ-people
 ---
 <i>This statement was originally published on [Reappropriate](http://reappropriate.co/), and is republished here with permission.</i> 
 

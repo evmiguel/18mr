@@ -9,6 +9,7 @@ blurb: "Thank you Cecilia Chung, for working to end discrimination and violence 
 tweet: "Thank you Cecilia Chung, for working to end discrimination and violence and protecting trans and HIV+ communities."
 facebook: "Thank you Cecilia Chung, for working to end discrimination and violence and protecting trans and HIV+ communities."
 permalink: /2019/05/loveletters/CeciliaChung.html
+slug: CeciliaChung
 ---
 
 Dear Cecilia Chung,

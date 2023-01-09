@@ -8,6 +8,7 @@ blurb: The world has changed. But 18MR is committed to the work that will get us
 Tweet: “The world has changed. But 18MR is committed to the work that will get us through, and beyond, the global pandemic.”
 facebook: “The world has changed. But 18MR is committed to the work that will get us through, and beyond, the global pandemic.”
 permalink: /2020/03/coronavirus.html
+slug: coronavirus
 ---
 
 The world has changed. I find myself reminding people that we’re experiencing a once-in-a-century pandemic event. Right now, a little kindness and a little humanity, goes a long way. That’s why I’m writing you an email, personally.

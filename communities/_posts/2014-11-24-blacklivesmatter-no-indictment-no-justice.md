@@ -9,6 +9,7 @@ tweet: "No indictment. No justice whatsoever. #BlackLivesMatter"
 facebook: "Our justice system has failed America, period."
 blurb: "Despite incredible public outcry and over 100 consecutive days of peaceful protests in Ferguson, Missouri, no charges were brought up against an officer of the law for shooting and killing an unarmed person. Demonstrations expressing frustration, anger, disappointment, and sadness over this decision popped up all over the country last night. Our justice system, yet again, has failed Black America. It has failed America, period."
 permalink: /2014/11/blacklivesmatter-no-indictment-no-justice.html
+slug: blacklivesmatter-no-indictment-no-justice
 ---
 
 Like me, you may have spent the better part of last night and this morning reading about all that’s happened – and all that’s still happening – after a grand jury failed to indict Darren Wilson of any wrongdoing. Not even involuntary manslaughter.

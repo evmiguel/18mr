@@ -8,6 +8,7 @@ author: "18 Million Rising Staff"
 blurb: At this moment, our broader Asian American movement is faced with a decision. Will we keep a privileged few among us safe through hate crime laws and increased policing or will we fight for true safety and freedom for all of us? 
 facebook: At this moment, our broader Asian American movement is faced with a decision. Will we keep a privileged few among us safe through hate crime laws and increased policing or will we fight for true safety and freedom for all of us? 
 permalink: /2021/07/fertileground.html
+slug: fertileground
 ---
 
 
@@ -101,6 +102,7 @@ We want our family members and our communities to be safe from violence. But we 
 - <b>We resist</b> the belief that cops keep us safe and hold people accountable. In recent attacks against Asians, the police did not prevent violence; they showed up to respond afterward. Reporting a crime usually does not lead to an arrest or a conviction. In fact, data shows that [only about 2% of “serious crimes'' end in a conviction.](https://theconversation.com/police-solve-just-2-of-all-major-crimes-143878)
 - <b>We collaborate</b> with our diverse communities to build solidarity, divest from police, and create alternatives through community-based safety resources.
    1. Supporting movements to reallocate police funding to community needs such as healthcare, housing, and schools, and reduce contact with police. Examples of this are: Durham, NC’s [10 to Transform Campaign](https://durhamforall.org/campaigns/10-to-transform/), which would transfer 10% of police officer positions to unarmed, cop-free 911 responders.[Freedom Inc.’s Cop Free Schools Campaign](https://www.facebook.com/watch/live/?v=1210981102570780&ref=watch_permalink) which brought together Black and Southeast Asian youth to [end a contract that funded police presence in Madison, WI high schools.](https://www.forwardlookout.com/2020/06/cops-are-out-of-schools-whats-next/32784) Anti Police-Terror Project’s [MH First Hotline](https://www.antipoliceterrorproject.org/mh-first-oakland), a new model of response to mental health crises in Oakland, CA. 
+slug: mh-first-oakland), a new model of response to mental health crises in Oakland, CA. 
    2. Developing safer communities through relationship building and a strong public presence, such as [Oakland’s Chinatown Community Ambassadors Program.](https://www.bloomberg.com/news/articles/2021-03-25/oakland-chinatown-safety-efforts-could-be-model-for-asian-american-communities)
    3. Providing [harm reduction](https://harmreduction.org/about-us/principles-of-harm-reduction/) programs that affirm our agency and wellness over stigma and criminalization.
 - <b>We refuse</b> [false solutions](http://criticalresistance.org/wp-content/uploads/2021/02/CR_abolitioniststeps_antiexpansion_2021_eng.pdf) through policy reforms that end up entrenching police and prisons instead of dismantling them and [causing further harm.](https://abolitionanddisabilityjustice.com/reforms-to-oppose/) 

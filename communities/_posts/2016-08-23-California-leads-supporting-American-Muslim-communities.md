@@ -9,6 +9,7 @@ tweet: "California's AB 2845 is needed to combat Islamophobia in the classroom, 
 facebook: "Amidst a virulent climate of Islamophobia, California has the opportunity to take proactive steps to ensure American Muslim students feel safe and supported in the classroom, writes CAIR-SFBA Executive Director Zahra Billoo."
 blurb: "Amidst a virulent climate of Islamophobia, California must take steps to ensure American Muslim students feel safe and supported in the classroom."
 permalink: /2016/05/california-leads-in-supporting-american-muslim-communities.html
+slug: california-leads-in-supporting-american-muslim-communities
 ---
 
 <i>Image: Zahra Billoo welcomes over 600 California Muslims to the Capitol earlier this year, where they gathered to advocate for several key legislative priorities including the Safe Place to Learn Act.</i>

@@ -9,6 +9,7 @@ blurb: "After the Muslim Ban was released, people kept talking about how we won�
 tweet: "How can we prevent history from repeating itself if we erase its traces%3F %40tazzystar on the prehistory and future of the Muslim Ban %23NoMuslimBanEver"
 facebook: "How can we prevent history from repeating itself if we constantly erase its traces?"
 permalink: /2018/04/stepping-into-echoes.html
+slug: stepping-into-echoes
 ---
 As we walked through the dusty red dirt surrounded by tall dry grass with the sun bearing down on us, I was astounded and how quickly the environment had changed. Just moments before, we were surrounded by swaying palm trees and were spritzed by delicious salty waves crashing on volcanic rocks. We were in Hawaii, after all. It had just rained, a short tropical summer storm before we had left Diamondhead Point, common in most parts of Oahu. But after an hour drive inland, suddenly we were hiking down this ravine with the most drastic desert microclimate I had ever seen – a place that the internees referred to it as _jigoku dani_: Hell Valley. It was August, and it looked like rain hadn’t touched this part of the island in months. I wondered how on this tropical paradise island were they able to find such a terrible location to detain Americans. And I wondered, as I was stepping into the echoes of Japanese American past, if I was also stepping into the echoes of my Muslim American future.
  

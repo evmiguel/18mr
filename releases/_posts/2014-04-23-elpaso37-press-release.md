@@ -1,6 +1,8 @@
 ---
 layout: release
 title: "PRESS RELEASE: 18MR.org Launches #ElPaso37 Campaign to Release Punjabi Asylum Seekers, Joins Forces With Community Groups"
+permalink: /2014/04/elpaso37-press-release.html
+slug: elpaso37-press-release
 category: releases
 tweet: ".@18millionrising Launches #ElPaso37 Campaign to Release Punjabi Asylum Seekers, Joins Forces With Community Groups"
 facebook: "18MR partners up with United We Dream to kickoff a 3-day protest, during which community members, activists, and organizers from across the country will inundate ICE with phone calls expressing concern about and demanding the release of the #ElPaso37. 18MR is also partnering with the Jakara Movement to provide social media coverage for a caravan of young South Asian students who will drive from Northern California to El Paso, culminating in a protest outside the El Paso Immigration and Customs Enforcement Processing Center on Saturday, April 26, at 12:00 P.M. Central Time."

@@ -1,6 +1,8 @@
 ---
 layout: release
 title: "PRESS ADVISORY: 18MillionRising.org (18MR) Pulls Hoax on Gap Inc., Corporation Responds by Shutting Down www.gapdoesmore.com"
+permalink: /2014/05/gap-silencing.html
+slug: gap-silencing
 category: releases
 tweet: "PRESS ADVISORY: @18MillionRising (18MR.org) Pulls Hoax on @gapinc, Corporation Responds by Shutting Down www.gapdoesmore.com"
 facebook: "Gap Inc. has proven that it is more willing to villainize a small non-profit organization with a staff of only three than it is to step up to the plate and answer hard questions about the way the company treats the very people who sustain the business."

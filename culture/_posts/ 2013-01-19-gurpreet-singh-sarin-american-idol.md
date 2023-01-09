@@ -10,6 +10,7 @@ tweet: "The Turban(ator) Goes Maintream: 1st Sikh on American Idol @langarhall #
 facebook: "The Turban(ator) Goes Maintream: 1st Sikh on American Idol @langarhall #18MR"
 blurb: "American Idol recently featured a Sikh contestant for the first time, Gurpreet Singh Sarin, who crooned Maroon 5's "Sunday Morning" and made it past the first round. Dubbed "The Turbanator", at times it was hard to tell which took center stage: Gurpreet or his dastaar. Is this a step forward for the visibility of Sikhs in mainstream media, or a more problematic portrayal?"
 permalink: /2013/01/gurpreet-singh-sarin-american-idol.html
+slug: gurpreet-singh-sarin-american-idol
 ---
 
 <em>American Idol</em> recently featured a Sikh contestant for the first time, Gurpreet Singh Sarin, who crooned Maroon 5's "Sunday Morning" and made it past the first round. Dubbed "The Turbanator", at times it was hard to tell which took center stage: Gurpreet or his dastaar. Is this a step forward for the visibility of Sikhs in mainstream media, or a more problematic portrayal? Sonny Singh of [The Langar Hall]("http://thelangarhall.com/entertainment/the-turbanator-goes-mainstream/") weighs in.

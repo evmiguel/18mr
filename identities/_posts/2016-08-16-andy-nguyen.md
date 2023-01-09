@@ -10,6 +10,7 @@ tweet: "As a child of refugee parents, my parents barely spoke English. We weren
 facebook: "As a child of refugee parents, my parents barely spoke English. We weren't rich. We weren't the model minorities #AllCaliforniansCount Sign the petition: http://action.18mr.org/AB1726/"
 blurb: "As a child of refugee parents, my parents barely spoke English. We weren't rich. My family of Asians weren't the model minorities."
 permalink: /2016/08/andy-nguyen-ab1726.html
+slug: andy-nguyen-ab1726
 ---	
 As a child of refugee parents, my parents barely spoke English. We weren't rich. <strong> My family of Asians weren't the model minorities.</strong>
 

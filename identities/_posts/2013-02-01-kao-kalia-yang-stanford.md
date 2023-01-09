@@ -10,6 +10,7 @@ tweet: "Kao Kalia Yang discusses ethnic bias on NPR #yellowrain Sat 2/2 1:55PM P
 facebook: "Kao Kalia Yang discusses ethnic bias on NPR #yellowrain Sat 2/2 1:55PM PST youtube.com/18millionrising @stanfordaasa"
 blurb: "During the two hour interview, of which less than five minutes was aired, Yang was brought to the point of tears over the interviewer's harsh dismissal of her uncle's experiences. She joins the Stanford Hmong Student Union to discuss her experience during the interview and the implications of the interview on ethnic minority voices in public radio."
 permalink: /2013/02/kao-kalia-yang-stanford.html
+slug: kao-kalia-yang-stanford
 ---
 	
 18MR is pleased to present a livestream of Kao Kalia Yang's talk, Ethnic Bias on National Public Radio, a part of this weekend's [Listen to the Silence Conference]("http://aasa.stanford.edu/lts/) at Stanford University. You can <strong>[watch it here]("https://www.youtube.com/watch?v=WyzJdws-3g8") on Saturday Feb 2nd at 1:55 pm PST/4:55 pm EST</strong>.

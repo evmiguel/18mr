@@ -9,6 +9,7 @@ tweet: "We Belong Together: Meet My #Immigrant Mom - submit yours! #18MR @NAPAWF
 facebook: "Help tell the story of immigrant women through photos of people you love.  If you have an immigrant mom (or have friends who do), you can submit a picture and description about your mom, where she lives, and something special you'd like to share about her to the 'Meet My Immigrant Mom' tumblr."
 blurb: "Help tell the story of immigrant women through photos of people you love.  If you have an immigrant mom (or have friends who do), you can submit a picture and description about your mom, where she lives, and something special you'd like to share about her to the 'Meet My Immigrant Mom' tumblr."
 permalink: /2013/03/meet-my-immigrant-mom.html
+slug: meet-my-immigrant-mom
 ---
 
 Help tell the story of immigrant women through photos of people you love.  If you have an immigrant mom (or have friends who do), you can submit a picture and description about your mom, where she lives, and something special you'd like to share about her to the ['Meet My Immigrant Mom' tumblr](http://meetmyimmigrantmom.tumblr.com/).

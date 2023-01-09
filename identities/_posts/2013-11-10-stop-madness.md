@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Stop the madness: Help the Philippines tackle climate change"
+permalink: /2013/11/stop-madness.html
+slug: stop-madness
 category: identities
 tags: featured
 author: C.M. Samala

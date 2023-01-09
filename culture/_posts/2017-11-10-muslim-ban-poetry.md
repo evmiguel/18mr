@@ -9,6 +9,7 @@ tweet: "26 poems celebrate resistance and say %23NoMuslimBanEver"
 facebook: "Here are all 26 poems from Micropoems for #NoMuslimBanEver created in partnership with Kaya Press."
 blurb: "Here are all 26 poems from Micropoems for #NoMuslimBanEver created by in partnership with Kaya Press."
 permalink: /2017/11/muslim-ban-poetry.html
+slug: muslim-ban-poetry
 ---
 
 Here are all 26 poems from Micropoems for #NoMuslimBanEver created in partnership with [Kaya Press](http://kaya.com). 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "18MR.org's Organizational Comments to the FCC"
+permalink: /2014/09/18mrs-organizational-comments-fcc.html
+slug: 18mrs-organizational-comments-fcc
 category: ideas
 author: Cayden Mak
 featured-image: '/static/images/featured/2014-09-14-18mrs-organizational-comments-fcc.jpg'

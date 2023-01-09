@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The Meemao Monster"
+permalink: /2015/01/meemao-monster.html
+slug: meemao-monster
 category: culture
 author: Kao Kalia Yang
 featured-image: '/static/images/featured/2015-01-11-the-meemao-monster.jpg'

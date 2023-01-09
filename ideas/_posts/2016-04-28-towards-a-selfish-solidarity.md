@@ -10,6 +10,7 @@ tweet: "Sasha W. explores 'selfish solidarity': how we go from saying %23BlackLi
 facebook: "Sasha W. explores 'selfish solidarity': how we go from saying #BlackLivesMatter to living it."
 blurb: "The need for a deep and selfish solidarity of South Asians with #BlackLivesMatter became nationally visible last year. Sureshbhai Patel, an Indian man visiting America to care for his grandson, was mistaken for “a skinny Black man” by a neighbor who called the cops. When the cops could not communicate with him, because Mr. Patel does not speak English, one officer brutally slammed Mr. Patel into the ground, leaving him partially paralyzed. The police were called on Mr. Patel because he was mistaken for “a skinny Black man;” he was brutalized, beaten to the point of literal paralysis but not killed, because he was understood to be Indian and immigrant."
 permalink: /2016/04/towards-a-selfish-solidarity.html
+slug: towards-a-selfish-solidarity
 ---
 
 “Do you worry about your son?”

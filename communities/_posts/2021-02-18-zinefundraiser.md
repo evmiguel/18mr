@@ -9,6 +9,7 @@ blurb: “We can reimagine community safety without being anti-Black or pro-poli
 tweet: "We can reimagine community safety without being anti-Black or pro-police"
 facebook: We can reimagine community safety without being anti-Black or pro-police
 permalink: /2021/02/zinefundraiser.html
+slug: zinefundraiser
 ---
 
 <b>This month 18 Million Rising is launching a solidarity fundraiser to fund two community-led efforts reimagining community safety and comprehensive ethnic studies. </b>

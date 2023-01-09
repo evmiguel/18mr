@@ -9,6 +9,7 @@ blurb: "Personal reflections on speaking with our families"
 tweet: " "
 facebook: " "
 permalink: /2020/07/callonme-update.html
+slug: callonme-update
 ---
 
 We’re living during a historic moment of uprisings to end police violence. Black leaders and organizers put a call out for all of us to have conversations about anti-Blackness and police violence with our families and loved ones.

@@ -7,6 +7,7 @@ blurb: "Today, Donald Trump is taking oath of office to become the 45th U.S. Pre
 tweet: ".%4018MillionRising.org's commitments for the next four years. %23AsiansResist"
 facebook: "Share your ideas and collaborate with 18MillionRising.org. Check out their commitments for the next four years. #AsiansResist"
 permalink: /2017/01/inauguration.html
+slug: inauguration
 ---
 
 __The First 100 Days are over. But the work of social and personal transformation never truly ends.__

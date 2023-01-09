@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "THE “WHOLE ENCHILADA” BLUEPRINT LEAVES SOMETHING TO BE DESIRED"
+permalink: /2013/02/whole-enchilada-blueprint-leaves-something-be-desi.html
+slug: whole-enchilada-blueprint-leaves-something-be-desi
 category: ideas
 author: Justin Valas
 featured-image: '/static/images/featured/2013-02-13-whole-enchilada-blueprint-leaves-something-be-desi.jpg'

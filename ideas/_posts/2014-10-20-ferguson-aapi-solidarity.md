@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Ferguson, Asian America, & Performative Solidarity: Showing Up, Staying Shown"
+permalink: /2014/10/ferguson-aapi-solidarity.html
+slug: ferguson-aapi-solidarity
 category: ideas
 author: PaKou Her
 featured-image: '/static/images/featured/2014-10-20-ferguson-aapi-solidarity.jpg'

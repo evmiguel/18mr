@@ -8,6 +8,7 @@ featured-alt-text: "A paved road is filled with countless rows of Native America
 tweet: "Asian Americans must draw on past solidarity with Native struggle and support the %23NoDAPL fight"
 facebook: "Asian Americans must draw on our historical spirit of solidarity and shared struggle with Native American communities to support the #NoDAPL fight for Sioux self-determination at Standing Rock."
 permalink: /2016/09/asian-americans-must-stand-with-standing-rock.html
+slug: asian-americans-must-stand-with-standing-rock
 ---
 <HR>
 <p style="font-size:12px"><i>UPDATE: On September 9, 2016, the Department of Justice, Department of the Army, and the Department of the Interior issued a <a href = "https://www.justice.gov/opa/pr/joint-statement-department-justice-department-army-and-department-interior-regarding-standing">joint statement</a> halting construction of the pipeline on U.S. Army Corps land bordering or under Lake Oahe pending review. Despite the statement, Energy Transfer Parterns, the corporation behind the pipeline, has <a href = "http://www.commondreams.org/news/2016/09/13/dakota-access-construction-will-continue-pipeline-corp-ceo-vows">vowed</a> to continue construction, which has reportedly resumed just 70 miles away from Lake Oahe.</i></p>

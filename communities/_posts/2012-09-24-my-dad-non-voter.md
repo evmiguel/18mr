@@ -9,6 +9,7 @@ tweet: "#MyAAPIVote: how @SFdirewolf got her dad to vote for the first time."
 facebook: "#MyAAPIVote: what it took Alice Wong to convince her dad, a habitual non-voter, to cast his first ballot."
 blurb: "During every election season you hear the same catchphrases about voting, 'Every vote counts; Exercise your rights!' The sad truth during this current presidential election is that many of these rights are at stake -- voter ID laws and greater restrictions on voting are threatening the very essence of democracy. However, all of these things didn't bother my dad. My dad is one of the millions of non-voters in the U.S. He never had an interest in voting or felt any need to become more engaged with civil society. This is why I am so amazed and delighted that he decided to register for the first time a few days ago."
 permalink: /2012/09/my-dad-non-voter.html
+slug: my-dad-non-voter
 ---
 
 Today's the day, folks -- National Voter Registration Day!

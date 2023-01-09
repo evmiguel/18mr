@@ -9,6 +9,7 @@ tweet: "How can AAPIs help work for justice for Michael Brown? #Ferguson "
 facebook: "As Asian Americans and Pacific Islanders, Ferguson is a call to action and solidarity. While our experiences with racism are not the same as the trauma of racism lived by Black people, there are plenty of reasons to be enraged about the damage being wrought by institutional racism. If we as AAPIs fail to act, if we remain silent and choose to fill the shoes of the “model minority,” we have chosen the side of oppression."
 blurb: "As Asian Americans and Pacific Islanders, Ferguson is a call to action and solidarity. While our experiences with racism are not the same as the trauma of racism lived by Black people, there are plenty of reasons to be enraged about the damage being wrought by institutional racism. If we as AAPIs fail to act, if we remain silent and choose to fill the shoes of the “model minority,” we have chosen the side of oppression."
 permalink: /2014/08/three-ways-aapis-can-help-seek-justice-michael-brown.html
+slug: three-ways-aapis-can-help-seek-justice-michael-brown
 ---
 
 I have to be honest: it’s taken me two days and four drafts to write this post about what’s happening in Ferguson, Missouri.

@@ -9,6 +9,7 @@ blurb: "The 18MR team put together a list of resources for you. Whether you’re
 Tweet: “Wondering what comes next? Here are some tools and resources to think about a world beyond policing.”
 facebook: “Wondering what comes next? Here are some tools and resources to think about a world beyond policing.”
 permalink: /2020/06/safetyplans.html
+slug: safetyplans
 ---
 
 In the midst of powerful uprisings across the country in defense of Black lives lost to police murders and vigilante violence, the time to reimagine safety and practice solidarity is now. **One way we can act today to stop killing Black people is to stop calling the police, and to make sure our loved ones stop too.** We’ve [asked our community to pledge to stop calling the cops](https://action.18mr.org/dontcallpolice/), and [created a support tool for you to use when talking to your family about this issue](https://18millionrising.org/2020/06/callonme.html). 

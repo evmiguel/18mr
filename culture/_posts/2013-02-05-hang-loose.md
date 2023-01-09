@@ -10,6 +10,7 @@ tweet: "Dante Basco on his new production company & film Hang Loose w/KevJumba #
 facebook: "Actor and producer Dante Basco sounds off in this 18MR exclusive about his new comedy, 'Hang Loose'"
 blurb: "Actor and producer Dante Basco sounds off in this 18MR exclusive about his new comedy 'Hang Loose' co-starring KevJumba -- which is directed by, produced by, and starring Asian Americans. As founder and executive producer of Kinetic Films, Basco's goal is to generate more visbility for Asian Americans in media, beyond mainstream cliches."
 permalink: /2013/02/hang-loose.html
+slug: hang-loose
 ---
 
 Actor and producer Dante Basco sounds off in this 18MR exclusive about his new comedy "[Hang Loose](http://www.hangloosemovie.com/)" co-starring KevJumba -- which is directed by, produced by, and starring Asian Americans. As founder and executive producer of Kinetic Films, Basco's goal is to generate more visbility for Asian Americans in media, beyond mainstream cliches and stereotypes.

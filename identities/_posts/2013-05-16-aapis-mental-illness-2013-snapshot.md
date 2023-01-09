@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "AAPIs with Mental Illness: A 2013 Snapshot"
+permalink: /2013/05/aapis-mental-illness-2013-snapshot.html
+slug: aapis-mental-illness-2013-snapshot
 category: identities
 author: Alice Wong
 featured-image: '/static/images/featured/2013-05-16-aapis-mental-illness-2013-snapshot.png'

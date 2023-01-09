@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Asian Americans discussing immigration = National Twitter trend!"
+permalink: /2013/05/aapis-discussing-immigration-national-twitter-tren.html
+slug: aapis-discussing-immigration-national-twitter-tren
 category: identities
 author: C.M. Samala
 featured-image: '/static/images/featured/2013-05-28-aapis-discussing-immigration-national-twitter-tren.png'

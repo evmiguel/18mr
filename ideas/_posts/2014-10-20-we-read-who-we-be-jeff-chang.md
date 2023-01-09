@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "We Read: 'Who We Be' by Jeff Chang"
+permalink: /2014/10/we-read-who-we-be-jeff-chang.html
+slug: we-read-who-we-be-jeff-chang
 category: ideas
 author: Cayden Mak
 featured-image: '/static/images/featured/2014-10-20-who-we-be.jpg'
 featured-alt-text: "The cover of Jeff Chang's 2014 book, 'Who We Be,' with the autho's name at the top, citing him as 'American Book Award-winning Author of 'Can't Stop Won't Stop'. The title is in big white block letters in the center. At the bottom, the subtitle 'The Colorization of America' is in red and pink."
+permalink: /2014/10/we-read-who-we-be-jeff-chang.html
+slug: we-read-who-we-be-jeff-chang
 tweet: ".@cayden reviews @zentronix's latest, 'Who We Be.'"
 facebook: "It seems like we're constantly critiquing, agonizing over, and scoffing at what white people think when it comes to race...yet I'm pressed to find as much discussion about why these came to be dominant ideas about race and power."
 blurb: "People in my internet circles have been talking a lot lately about what white people think. Whether it's the Whiteness Project, the new video interview series from Whitney Dow, or Bill O'Reilly, who adamantly refuses to acknowledge that white privilege is even a thing, it seems like we're constantly critiquing, agonizing over, and scoffing at what white people think when it comes to race. For many young people of color, it's so readily apparent that they're wrong, even as people of all races are quick to claim a colorblind, colormute stance. Yet I'm pressed to find as much discussion about why these came to be dominant ideas about race and power."

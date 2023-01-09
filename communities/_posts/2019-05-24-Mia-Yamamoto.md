@@ -9,6 +9,7 @@ blurb: “Join 18MR in thanking Mia Yamamoto for her life long commitment to fig
 Tweet: “Join 18MR in thanking Mia Yamamoto for her life long commitment to fighting against incarceration, racism, and transmisogyny.”
 facebook: “Join 18MR in thanking Mia Yamamoto for her life long commitment to fighting against incarceration, racism, and transmisogyny.”
 permalink: /2019/05/loveletters/miayamamoto.html
+slug: miayamamoto
 ---
 
 Dear Mia Yamamoto,

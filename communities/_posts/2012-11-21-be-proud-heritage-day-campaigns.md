@@ -8,6 +8,7 @@ tweet: "Join the Oak Creek Sikh community on 2 campaigns to end hate!"
 facebook: "Join the Oak Creek Sikh community on 2 campaigns to end hate!"
 blurb: "Join the Oak Creek Sikh community on 2 campaigns to end hate!"
 permalink: /2012/11/be-proud-heritage-day-campaigns.html
+slug: be-proud-heritage-day-campaigns
 ---
 
 <p>The Oak Creek Sikh community and Amardeep Kaleka, the youngest son of slain temple president Satwant Singh Kaleka, have launched two national initiatives around peace, diversity, and anti-hate: <strong>Heritage Day</strong> (November 21st) and the <strong>Be Proud Campaign</strong>.

@@ -9,6 +9,7 @@ tweet: ".@stevenrenderos + @tsengputterman argue encryption must be part of any 
 facebook: "To champion civil rights, the next POTUS must defend encryption and digital privacy for all communities -- especially those of color."
 blurb: "In a political moment of heightened xenophobia, profiling and over-policing, encryption has become a key civil rights protection for targeted communities."
 permalink: /2016/05/encryption-is-a-civil-right.html
+slug: encryption-is-a-civil-right
 ---
 From San Bernardino to Brooklyn to Capitol Hill, the fight over encryption has boiled over this past month. But who’s paying attention? The basic security feature all of us depend on daily to protect our online payment transactions, message content, and other personal data is increasingly taken for granted. And for many Americans, when the debate shifts to government surveillance it’s met with a shrug and a retort: “I have nothing to hide.”
 

@@ -10,6 +10,7 @@ tweet: "What happens when you make Asian celebrities 'Asian'? #makemeracist #18M
 facebook: "What happens when you make Asian celebrities 'Asian'? #makemeracist #18MR"
 blurb: "Despite national media attention and almost 10,000 total petition signatures, Google has refused to remove the Make me Asian Make me Asian apps from its Google Play store."
 permalink: /2013/01/asianmaker-app.html
+slug: asianmaker-app
 ---
 
 Despite national media attention and almost 10,000 total [signatures on 18MR]("http://act.engagementlab.org/sign/18MR_MakeMeAsian_B/") and Peter Chin's petitions combined, Google has refused to remove the [Make me Asian]("https://play.google.com/store/apps/details?id=com.makemeasian&amp;hl=en") and [Make me Indian]("https://play.google.com/store/apps/details?id=com.makemeindian&amp;hl=en") apps from its Google Play store. 

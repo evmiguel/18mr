@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "AND THE HIPSTER RACISM AWARD GOES TO...GAVIN MCINNES!"
+permalink: /2013/03/and-hipster-racism-award-goes-gavin-mcinnes.html
+slug: and-hipster-racism-award-goes-gavin-mcinnes
 category: culture
 author: Cayden Mak
 featured-image: '/static/images/featured/2013-03-18-and-hipster-racism-award-goes-gavin-mcinnes.png'
 featured-alt-text: "A fake award certificate shows Gavin McInnes's goofy face superimposed with a shining crown. The award is titled 'Lifetime Achievement Award: Hipster Racism.'"
+permalink: /2013/03/and-hipster-racism-award-goes-gavin-mcinnes.html
+slug: and-hipster-racism-award-goes-gavin-mcinnes
 tweet: "Congrats @Gavin_McInnes! #18MR is pleased to award you with the Lifetime Achievement Award in #HipsterRacism"
 facebook: "18MillionRising.org commends 'writer' and 'comedian' Gavin McInnes for his insightful 'Tackling Asian Privilege' article -- by awarding him our Leftime Achievement Award in Hipster Racism. Join us in congratulating Gavin!"
 blurb: "18MillionRising.org commends 'writer' and 'comedian' Gavin McInnes for his insightful 'Tackling Asian Privilege' article -- by awarding him our Leftime Achievement Award in Hipster Racism. Join us in congratulating Gavin!"

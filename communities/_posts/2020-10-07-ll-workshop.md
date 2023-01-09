@@ -9,6 +9,7 @@ blurb: “It's impossible to call yourself a prison abolitionist if you are not 
 tweet: "It's impossible to call yourself a prison abolitionist if you are not writing folks inside."
 facebook: It's impossible to call yourself a prison abolitionist if you are not writing folks inside.
 permalink: 2020/10/workshop_decarceration.html
+slug: workshop_decarceration
 ---
 
 <b>On Sept. 26, 18 Million Rising hosted the first [Love Letters to Movement Leaders workshop on abolition and decarceration](https://www.movementloveletters.org/community/apsc-survived) with over 170 members and allies.</b> This workshop, co-facilitated by our partners Asian Prisoner Support Committee and Survived and Punished, is a part of 18MR’s new multimedia initiative: [Love Letters to Movement Leaders.](https://www.movementloveletters.org/)

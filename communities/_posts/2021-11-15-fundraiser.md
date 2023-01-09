@@ -8,6 +8,7 @@ author: "18 Million Rising Staff"
 blurb: Will you Fund Asian American Futures with 18 Million Rising?
 facebook: Will you Fund Asian American Futures with 18 Million Rising?
 permalink: /2021/11/2021Fundraiser.html
+slug: 2021Fundraiser
 ---
 
 

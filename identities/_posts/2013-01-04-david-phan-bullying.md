@@ -10,6 +10,7 @@ tweet: "Hyphen's article on the tragic suicide of David Phan and school bullying
 facebook: "Hyphen's article on the tragic suicide of David Phan and school bullying #18MR"
 blurb: "The tragic suicide of 14-year-old Utah junior high school student David Phan has sparked community outrage -- and raised questions around the failure of school authorities to protect David from race and sexuality-based bullying."
 permalink: /2013/01/hyphen-david-phan-school-bullying.html
+slug: hyphen-david-phan-school-bullying
 ---
 	
 The tragic suicide of 14-year-old Utah junior high school student David Phan has sparked community outrage -- and raised questions around the failure of school authorities to protect David from race and sexuality-based bullying.

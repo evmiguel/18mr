@@ -9,6 +9,7 @@ tweet: "Randy Kim on getting out the Asian American vote in Chicago"
 facebook: "Randy Kim, Immigrant Rights Organizer for 18MR partner Korean American Resource Cultural Center (KRCC), shares successes and lessons learned from civically engaging the Chicago Korean American community."
 blurb: "Randy Kim, Immigrant Rights Organizer for 18MR partner Korean American Resource Cultural Center (KRCC), shares successes and lessons learned from civically engaging the Chicago Korean American community."
 permalink: /2012/11/krcc-boosting-asian-american-voice-chicago.html
+slug: krcc-boosting-asian-american-voice-chicago
 ---
 
 <p>Randy Kim, Immigrant Rights Organizer for 18MR partner <a href="http://www.chicagokrcc.org/">Korean American Resource &amp; Cultural Center</a> (KRCC), shares successes and lessons learned from civically engaging the Chicago Korean American community.</p>	

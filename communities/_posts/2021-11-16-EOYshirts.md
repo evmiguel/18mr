@@ -9,6 +9,7 @@ blurb: "Two shirts inspired by the visionary leadership of our elders and ancest
 Tweet: “Two shirts inspired by the visionary leadership of our elders and ancestors.”
 facebook: “Two shirts inspired by the visionary leadership of our elders and ancestors.”
 permalink: /2021/11/2021-AL-shirts.html
+slug: 2021-AL-shirts
 ---
 
 

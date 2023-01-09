@@ -10,6 +10,7 @@ tweet: "The diasporic fights to %23RememberComfortWomen and end U.S. militarism 
 facebook: "To oppose Japan's denial of its WWII 'Comfort Women' system and the violence of U.S. military expansion in Asia, we need a transnational framework of solidarity, remembrance, and resistance, writes Miho Kim Lee." 
 blurb: "Emerging U.S. military strategy in Asia has led to implied endorsement of Japan's denial of its WWII 'Comfort Women' system. The legacy of elders who broke the silence against Japan's wartime sexual slavery system is a call for Asian Americans to fight militarism and state violence with a transnational movement of remembrance, resistance, and solidarity."
 permalink: /2016/06/remembrance-as-resistance.html
+slug: remembrance-as-resistance
 ---
 
 _Image: The author (center) holds an image of Zainichi Korean “Comfort Woman” survivor Song Shing-do halmoni, with Yuri Kochiyama (bottom right) at a 2005 protest in front of the Japanese Consulate in San Francisco. Also pictured: renowned Zainichi human rights activist Shin Sugok and Zainichi scholar of Ethnic Studies Kyunghee Ha._

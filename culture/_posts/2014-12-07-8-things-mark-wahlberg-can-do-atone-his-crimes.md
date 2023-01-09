@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "8 Things Mark Wahlberg Can Do To Atone For His Crimes"
+permalink: /2014/12/8-things-mark-wahlberg-can-do-atone-his-crimes.html
+slug: 8-things-mark-wahlberg-can-do-atone-his-crimes
 category: culture
 tags: featured
 author: Cayden Mak

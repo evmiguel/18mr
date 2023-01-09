@@ -1,6 +1,8 @@
 ---
 layout: release
 title: "Thanks, Mom!"
+permalink: /2013/05/18MR-launches-thank-you-mom-project.html
+slug: 18MR-launches-thank-you-mom-project
 category: releases
 author: PaKou Her
 featured-image: '/static/images/featured/2013-05-07-18MR-launches-thank-you-mom-project.png'

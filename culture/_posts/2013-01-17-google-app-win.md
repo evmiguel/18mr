@@ -10,6 +10,7 @@ tweet: "We Won! Google pulls #racist 'Make me Asian' & 'Make me Indian' apps! #1
 facebook: "We Won! Google pulls #racist 'Make me Asian' & 'Make me Indian' apps! #18MR"
 blurb: "Thanks to the efforts of our members and allies, these racist apps are no longer available on Google Play to perpetuate offensive portrayals of Asians and Native Americans. This victory is a step in the right direction to putting an end to the use of damaging racial stereotypes."
 permalink: /2013/01/google-app-win.html
+slug: google-app-win
 ---	
 
 18MR is very excited to announce that, as of this morning, the "Make Me Asian" and "Make Me Indian" apps get a 404 Error on Google Play!

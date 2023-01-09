@@ -1,6 +1,8 @@
 ---
 layout: release
 title: "PRESS ADVISORY: Coalition of Asian American organizations opposes FBI request to exempt NGI biometrics database from Privacy Act requirements, cites civil rights concerns"
+permalink: /2016/07/groups-oppose-FBI-privacy-act-exemptions.html
+slug: groups-oppose-FBI-privacy-act-exemptions
 category: releases
 tweet: "PRESS ADVISORY: @18MillionRising, Asian American coalition, ask DOJ to #StopSecretBiometrics"
 facebook: "As a majority-immigrant community, Asian Americans are disproportionately enrolled in the FBI's NGI system and thus particularly vulnerable to potential civil rights violations. We need to be concerned about this issue and speak out for the millions it will impact."

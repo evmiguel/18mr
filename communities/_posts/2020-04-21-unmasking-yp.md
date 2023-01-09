@@ -9,6 +9,7 @@ blurb: Unmasking Yellow Peril seeks to ground ourselves in the long history of Y
 Tweet: “Unmasking Yellow Peril seeks to ground ourselves in the long history of Yellow Peril, uncover its many forms, and resist it in the time of COVID-19. ”
 facebook: “Unmasking Yellow Peril seeks to ground ourselves in the long history of Yellow Peril, uncover its many forms, and resist it in the time of COVID-19. ”
 permalink: /2020/04/unmasking_yp.html
+slug: unmasking_yp
 ---
 
 <b>Not only do Asian Americans worry about surviving the virus, we also fear for our lives.</b> Our loved ones are experiencing skyrocketing levels of unchecked hate and violence -- [over 100 hundred hate crimes a day.](https://thehill.com/changing-america/respect/equality/490373-attacks-on-asian-americans-at-about-100-per-day-due-to) This violence is the latest iteration of Yellow Peril. It is a form of white supremacist settler nationalism that the U.S. pioneered to peddle racial fear and justify endless global war and the exploitation and expulsion of  what they perceive as diseased and enemy Asians. 

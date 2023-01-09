@@ -9,6 +9,7 @@ tweet: "AAPIs are using online tools to break down barriers. This November, we c
 facebook: "Thanks to Net Neutrality, Asian American cultural and political innovation is thriving online. This November, our votes should reflect the need to defend our rights online from corporate gatekeeping."
 blurb: "From #OscarsSoWhite to #Asians4BlackLives, we're creating a thriving political and cultural Asian American community online. But we can't take an open, democratic internet for granted."
 permalink: /2016/08/fighting-voting-internet-asian-americans-know-love-need.html
+slug: fighting-voting-internet-asian-americans-know-love-need
 ---
 Of the 225 million Americans eligible to head to the polls in November will be some [9 million](http://www.pewresearch.org/fact-tank/2016/02/03/2016-electorate-will-be-the-most-diverse-in-u-s-history/) Asian Americans. It’s a segment of the electorate that’s hard to categorize.
 

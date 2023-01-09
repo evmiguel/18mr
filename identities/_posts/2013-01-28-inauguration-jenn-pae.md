@@ -10,6 +10,7 @@ tweet: "#18MR's Jenn Pae shares Inauguration experience"
 facebook: "18MR campaign manager Jenn Pae shares her experiences at last week's Presidential Inauguration!"
 blurb: "18MR campaign manager Jenn Pae shares her experiences at last week's Presidential Inauguration. And yes, she met Congresswoman Tammy Duckworth!"
 permalink: /2013/01/inauguration-jenn-pae.html
+slug: inauguration-jenn-pae
 ---
 
 It's been a week since the Presidential Inauguration and I'm still thinking about all of the people I was fortunate to connect with, both old and new. My first conversation began with Ms. Janie. Our entire flight, including a layover in Chicago, we sat next to each other. She joked that no one wanted to sit in between us because she looked scary wearing a mask covering most of her face. In reality, she wanted to stay germ-free because she's fighting and beating lung cancer. She was told she only had 4-6 months, but 4 years later with 4 daughters, 12 grandchildren, and 10 great grandchildren, she'll be going to the inauguration to see our President get sworn into office once again.

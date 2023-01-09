@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "What's the Real Threat?"
+permalink: /2014/07/whats-real-threat.html
+slug: whats-real-threat
 category: culture
 author: Balpreet Singh
 featured-image: '/static/images/featured/2014-07-15-whats-real-threat.jpg'

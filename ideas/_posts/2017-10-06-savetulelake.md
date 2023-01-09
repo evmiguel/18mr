@@ -10,6 +10,7 @@ tweet: "%23SaveTuleLake is driven by the impulse to remember history as it was%2
 facebook: "The images you choose to represent a historical moment matter - and putting up a statue to a supposed great man who committed atrocities is worlds away from preserving a place where the innocent struggled and in some cases died." 
 blurb: "The images you choose to represent a historical moment matter - and putting up a statue to a supposed great man who committed atrocities is worlds away from preserving a place where the innocent struggled and in some cases died."
 permalink: /2017/08/save-tule-lake.html
+slug: save-tule-lake
 ---
 
 As we’ve been asking people to [write in to protect Tule Lake](https://action.18mr.org/savetulelake/), a National Historic Landmark in far northern California, we’ve gotten some questions about how Tule Lake is different than the monuments to Confederate military commanders being removed around the country. I wrote a response to a member who took the time to send us a thoughtful email wondering if preserving this history does more to give aspiring oppressors ideas rather than help us remember and mourn, and if so, if we should be trying to protect sites like Tule Lake.

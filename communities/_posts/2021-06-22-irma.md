@@ -8,6 +8,7 @@ author: "18 Million Rising Staff"
 blurb: 
 facebook: 
 permalink: /2021/06/irma.html
+slug: irma
 ---
 
 <b>18 Million Rising is thrilled to announce Irma Shauf-Bajar (he/she/siya) as our Interim Executive Director. </b>Irma is a Filipino queer grassroots community organizer, movement educator and trainer dedicated to building people power and resiliency in communities and movements toward liberation. With 15 years of grassroots community organizing work, Irma has worked to advance political organizing and power in immigrant, economic, racial justice, LGBTQ+, gender and social justice movements. A tireless advocate for coalition building, Irma has been at the forefront of building effective multi-racial and multi-sector coalitions on local, national, and international scales. 

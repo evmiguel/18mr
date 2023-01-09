@@ -7,6 +7,7 @@ featured-alt-text: "A graphic displays an image of a black-and-white photo of In
 facebook: "Join 18MR in saying Mahalo to Senator Inouye for his devoted service."
 blurb: "Join 18MR in saying Mahalo to Senator Inouye for his devoted service."
 permalink: /2012/12/Mahalo-open-letter-senator-daniel-inouye.html
+slug: Mahalo-open-letter-senator-daniel-inouye
 ---
 
 On Monday December 17, fearless leader, advocate, and WWII hero Senator Daniel K. Inouye passed away at the age of 88. 

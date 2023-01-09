@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "FIXING IMMIGRATION BACKLOGS TO REUNITE FAMILIES"
+permalink: /2013/03/fixing-immigration-backlogs-reunite-families.html
+slug: fixing-immigration-backlogs-reunite-families
 category: ideas
 author: Meeran Mahmud
 featured-image: '/static/images/featured/2013-03-21-fixing-immigration-backlogs-reunite-families.jpg'

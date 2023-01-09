@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "#FERGUSONOCTOBER: It's Time to Get Real, Asian America"
+permalink: /2014/10/fergusonoctober-its-time-get-real-asian-america.html
+slug: fergusonoctober-its-time-get-real-asian-america
 category: identities
 author: PaKou Her
 featured-image: '/static/images/featured/2014-10-05-fergusonoctober-its-time-get-real-asian-america.jpg'

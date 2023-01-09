@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Gun Control & Mental Health: Initial Responses from AAPI Community Advocates"
+permalink: /2013/02/gun-control-and-mental-health-initial-responses-aa.html
+slug: gun-control-and-mental-health-initial-responses-aa
 category: ideas
 author: Alice Wong
 featured-image: '/static/images/featured/2013-02-19-gun-control-and-mental-health-initial-responses-aa.jpg'

@@ -9,6 +9,7 @@ tweet: "Hear racial justice thought leaders at %Netroots speak on tech, media, a
 facebook: "Racial justice thought leaders spoke at this year's Netroots Nation on race, technology, media activism, and building our movements on and offline. Read the full transcript from the keynote panel." 
 blurb: "Racial justice thought leaders spoke at this year's Netroots Nation on race, technology, media activism, and building our movements on and offline. Read the full transcript from the keynote panel."
 permalink: /2016/06/netroots-digital-cultureshift.html
+slug: netroots-digital-cultureshift
 ---
 <i>The following is an edited transcript of the Netroots Nation 2016 keynote plenary “The Digital CultureSHIFT: Moving from Scale to Power to Achieve Racial Justice,” which took place in St. Louis on Friday, July 15, 2016. This transcript is posted here with permission from Netroots Nation and the participating panelists.</i>
 

@@ -9,6 +9,7 @@ tweet: ".@Samala recaps the 2012 Rootscamp AAPI Caucus and how to build communit
 facebook: "18MR Director Samala recaps the 2012 (First!) Rootscamp AAPI Caucus, and how we can keep building community both on and offline." 
 blurb: "18MR Director Samala recaps the (First!) Rootscamp AAPI Caucus."
 permalink: /2012/12/rootscamp-whats-your-story.html
+slug: rootscamp-whats-your-story
 ---
 <p>18MR Director Samala recaps the (FIRST!) Rootscamp AAPI Caucus, the questions raised around AAPI identity and movement, and how we can keep building community both on and offline.</p>
 

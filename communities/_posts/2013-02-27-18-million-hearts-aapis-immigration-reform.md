@@ -9,6 +9,7 @@ tweet: "18 Million Hearts: AAPIs for Just Immigration Reform #18millionhearts"
 facebook: "The time has come for immigration reform. Today, 18MR and The Asian American Center for Advancing Justice launched the 18 Million Hearts campaign to lift up the voices of AAPIs in the national discussion. Stand with us and tell decision makers you want fair and just immigration reform!"
 blurb: "The time has come for immigration reform. Today, 18MR and The Asian American Center for Advancing Justice launched the 18 Million Hearts campaign to lift up the voices of AAPIs in the national discussion. Stand with us and tell decision makers you want fair and just immigration reform!"
 permalink: /2013/02/18-million-hearts-aapis-immigration-reform.html
+slug: 18-million-hearts-aapis-immigration-reform
 ---
 
 <iframe src="http://www.youtube.com/embed/BzCCsSn6_0M?rel=0" width="560" height="315">

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "In Search of Justice: Another Way to Remember Vincent Chin"
+permalink: /2014/06/search-justice-another-way-remember-vincent-chin.html
+slug: search-justice-another-way-remember-vincent-chin
 category: ideas
 author: Cayden Mak
 featured-image: '/static/images/featured/2014-06-29-search-justice-another-way-remember-vincent-chin.png'

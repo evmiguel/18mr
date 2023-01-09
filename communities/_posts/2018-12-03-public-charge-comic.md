@@ -9,6 +9,7 @@ blurb: "Trump’s DHS wants to deny immigrants from entering the U.S. or obtaini
 tweet: ".18%20Million%20Rising%20teamed%20up%20with%20comics%20%40glennurieta%20and%20%40the_real_chow%20to%20fight%20Public%20Charge%20--%20an%20attempt%20by%20the%20Trump%20administration%20to%20punish%20immigrant%20families%20who%20use%20programs%20like%20Medicaid%20and%20SNAP%20to%20survive.%20Speak%20out%20here%20%23NoToPublicCharge"
 facebook: "18 Million Rising teamed up with comic artists Glenn Urieta and Keith Chow to fight Public Charge -- an attempt by the Trump administration to punish immigrant families who use programs like Medicaid and SNAP to survive. Speak out here:"
 permalink: /2018/11/public-charge-comic.html
+slug: public-charge-comic
 ---
 
 <image src="/static/images/featured/2018-12-03-publicharge_salon_003.jpg"></image>

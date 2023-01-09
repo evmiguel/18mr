@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Hot Summer Oklahoma Sun"
+permalink: /2014/04/hot-summer-oklahoma-sun.html
+slug: hot-summer-oklahoma-sun
 category: identities
 author: Maggie Hundley
 featured-image: '/static/images/featured/2014-04-13-hot-summer-oklahoma-sun.png'

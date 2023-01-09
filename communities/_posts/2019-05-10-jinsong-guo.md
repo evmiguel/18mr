@@ -9,6 +9,7 @@ blurb: "Thank you Jinsong Guo and all the unsung heroes in the Asian American me
 tweet: "Jinsong Guo is quietly revolutionizing mental health access for Asian Americans. After reading this, you'll want to write a love letter to her, too"
 facebook: "Jinsong Guo is quietly revolutionizing mental health access for Asian Americans. After reading this, you'll want to write a love letter to her, too"
 permalink: /2019/05/loveletters/jinsongguo.html
+slug: jinsongguo
 ---
 
 Dear Jinsong Guo,

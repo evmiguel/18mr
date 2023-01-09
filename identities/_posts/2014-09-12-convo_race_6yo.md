@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "A Conversation About Race, Identity, and Discrimination With My 6-Year Old"
+permalink: /2014/09/convo_race_6yo.html
+slug: convo_race_6yo
 category: identities
 author: PaKou Her
 featured-image: '/static/images/featured/2014-09-12-convo_race_6yo.jpg'

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "THE SOCIAL AND ECONOMIC VALUE OF FAMILY VISAS"
+permalink: /2013/03/social-and-economic-value-family-visas.html
+slug: social-and-economic-value-family-visas
 category: ideas
 author: Karthick Ramakrishnan
 featured-image: '/static/images/featured/2013-03-19-social-and-economic-value-family-visas.png'

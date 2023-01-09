@@ -9,6 +9,7 @@ tweet: "Worried about AAPI media representation? This FCC proposal could make al
 facebook: "Worried about AAPI media representation? Us too. Learn how the FCC proposal to unlock the cable set-top box could make all the difference in the world."
 blurb: "AAPIs know all too well the limited opportunities that cable TV provides for nuanced and diverse representation. Unlocking the set-top box and integrating cable and streaming video programming could help us access more content that speaks to our identities and experiences, and provide a larger audience for AAPI content creators."
 permalink: /2016/05/set-top-box-AAPI-representation.html
+slug: set-top-box-AAPI-representation
 ---
 _Last week, 18MillionRising.org submitted comments to the Federal Communications Commission, urging the FCC to move forward with its proposal to unlock the cable set-top box. Providing consumers with access to alternative media sources to Big Cable stands to benefit AAPI consumers and content creators alike. Amidst a national conversation about the continued erasure of AAPIs in mainstream media, we share our letter to the FCC in support of a proposal that could help democratize and diversify our media._
 

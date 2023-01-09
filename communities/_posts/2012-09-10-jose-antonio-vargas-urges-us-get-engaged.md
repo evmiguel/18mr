@@ -9,6 +9,7 @@ tweet: "#MyAAPIVote: @joseiswriting explains why it's critical we use our voices
 facebook: "#MyAAPIVote: Jose Antonio Vargas urges us to use our voices at the ballot box."
 blurb: "These are twin reasons why 18MillionRising.org should be a destination -- a welcome and necessary platform -- for the 18 million people who comprise the diverse, vibrant, and rising Asian and Pacific Islander community in America."
 permalink: /2012/09/jose-antonio-vargas-urges-us-get-engaged.html
+slug: jose-antonio-vargas-urges-us-get-engaged
 ---
 
 Pulitzer-prize winning journalist Jose Antonio Vargas describes the cultural and political significance of the growing APIA population, and why it's critical that we vote and use our voices. Vargas publicly came out as undocumented in The New York Times Magazine in June 2011 and founded Define American to elevate the conversation around immigration. Early this summer, he appeared on the cover of Time shortly before Deferred Action for DREAMers was announced.

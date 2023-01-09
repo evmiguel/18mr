@@ -9,6 +9,7 @@ tweet: "A positive update from VSU & APC on UCLA's campaign against campus hate!
 facebook: "A positive update from VSU & APC on UCLA's campaign against campus hate!"
 blurb: "A positive update from VSU & APC on UCLA's campaign against campus hate!"
 permalink: /2012/12/ucla-campaign-update-vsu-apc.html	
+slug: ucla-campaign-update-vsu-apc	
 ---
 <p>Thanks to you, things are moving forward at UCLA around the <a href="http://act.engagementlab.org/letter/UCLA_campaign_B/">campaign to implement a diversity requirement</a>. The Vietnamese Student Association (VSA) provides an update on their meeting last week with Chancellor Block.</p>	
 

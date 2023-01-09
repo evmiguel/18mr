@@ -1,6 +1,8 @@
 ---
 layout: release
 title: "PRESS ADVISORY: 18MillionRising.org (18MR) Relaunches www.gapdoesmore.com, Thwarts Retaliation From Gap Inc."
+permalink: /2014/05/18millionrising-relaunches.html
+slug: 18millionrising-relaunches
 category: releases
 tweet: "PRESS ADVISORY: @18MillionRising (18MR.org) Relaunches www.gapdoesmore.com, Thwarts Retaliation From Gap Inc."
 facebook: "Despite Gap Inc.’s corporate bullying, 18MR has relaunched www.gapdoesmore.com. We are not interested in entertaining conversations about how Gap Inc. has been 'victimized' by a hoax designed to reveal their unjust labor practices. We want the corporation to answer for its treatment of the real victims: dead and injured workers supplying the very clothes that earn Gap Inc. billions of dollars a year."

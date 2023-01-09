@@ -10,6 +10,7 @@ tweet: "Why Big Bird matters even more for immigrants kids #18MR from @HapaMamaG
 facebook: "Why Big Bird matters even more for immigrants kids #18MR from @HapaMamaGrace"
 blurb: "Sesame Street was a staple of Grace Hwang Lynch's childhood. And her kids'. Public television programming like Sesame Street is both quintessentially American and crucial for low-income, immigrant families. Which is why Mitt Romney struck such a nerve."
 permalink: /2012/10/you-mess-big-bird-you-mess-nation-immigrants.html
+slug: you-mess-big-bird-you-mess-nation-immigrants
 ---
 
 Judging by the reaction to [Mitt Romney's vow during the first presidential debate to cut funding for PBS](http://www.latimes.com/entertainment/tv/showtracker/la-et-st-history-political-fight-over-pbs-20121004,0,5711328.story), Big Bird is the sacred cow of American childhood. For anyone born during the 1970s or later, _Sesame Street_ really is right up there with apple pie and baseball. Perhaps even more so for children of immigrants.

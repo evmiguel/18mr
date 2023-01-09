@@ -10,6 +10,7 @@ tweet: "5 years after Danny Chen's death, his cousin Banny is still waiting for 
 facebook: "Five years after the alleged suicide of Private Danny Chen, his cousin Banny reflects on the senseless loss of his cousin and a friend, and the need for military reform to address the sort of hazing that led to Danny's death."
 blurb: "Five years after the alleged suicide of Danny Chen, his cousin Banny reflects on the need for military reform to address the sort of hazing that led to Danny's death."
 permalink: /2016/08/a-message-in-hindsight-banny-chen.html
+slug: a-message-in-hindsight-banny-chen
 ---	
 Five years ago, I finally graduated from high school and went on to start my first semester of college. It was a difficult time in college, trying to make new friends when my friends from high school went off to other colleges. Also struggling to keep up with course work, like chemistry and biology, that high school didn’t exactly prepare me for. It was a difficult time but the most difficult part in my first semester of college was dealing with my cousin’s death. 
 

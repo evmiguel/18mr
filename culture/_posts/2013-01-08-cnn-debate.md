@@ -10,6 +10,7 @@ tweet: ".@CNN panel on 'Make me Asian' app misses the point, several times over 
 facebook: "@CNN panel on 'Make me Asian' app misses the point, several times over #18MR"
 blurb: "The Make me Asian app recently received tons of press coverage, including a segment on CNN's Starting Point. A panel of commentators recently discussed the app -- but did they miss the point?"
 permalink: /2013/01/CNN-make-me-asian-app.html
+slug: CNN-make-me-asian-app
 ---
 
 The "<a href="http://act.engagementlab.org/sign/18MR_MakeMeAsian_B/">Make me Asian</a>" app recently received tons of press coverage, including a segment on CNN's <em>Starting Point</em>. A panel of commentators recently discussed the app -- but did they miss the point?

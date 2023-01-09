@@ -9,6 +9,7 @@ blurb: "March is Women’s History Month and we're dedicating this letter to Maz
 tweet: "Mazie%20Hirono%20won%27t%20take%20any%20of%20your%20bullshit.%20After%20reading%20this%2C%20you%27ll%20want%20to%20write%20a%20love%20letter%20to%20her%2C%20too."
 facebook: "Mazie Hirono won't take any of your bullshit. After reading this, you'll want to write a love letter to her, too"
 permalink: /2018/11/loveletters/mazie-hirono.html
+slug: mazie-hirono
 ---
 
 Dear Mazie Hirono, 

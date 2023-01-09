@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "War Before Memory: a Vietnamese American protest organizer's history against Miss Saigon"
+permalink: /2013/09/war-before-memory.html
+slug: war-before-memory
 category: culture
 author: Bao Phi
 featured-image: '/static/images/featured/2013-09-16-war-before-memory.jpg'

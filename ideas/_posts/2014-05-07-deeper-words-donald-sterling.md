@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Deeper Than Words: Donald Sterling's Racism and the Model Minority Myth"
+permalink: /2014/05/deeper-words-donald-sterling.html
+slug: deeper-words-donald-sterling
 category: ideas
 author: Soya Jung
 featured-image: '/static/images/featured/2014-05-07-deeper-words-donald-sterling.jpg'

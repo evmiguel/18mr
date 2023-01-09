@@ -10,6 +10,7 @@ tweet: "40th Anniversary of Roe v. Wade: What does it mean for API women? @napaw
 facebook: "40th Anniversary of Roe v. Wade: What does it mean for API women? A message from @napawf"
 blurb: "Asian American and Pacific Islander (API) women still do not have meaningful access to their reproductive rights because they simply cannot afford abortion care. And, restrictions that both target API women and disproportionately affect us are a growing trend."
 permalink: /2013/01/roe-vs-wade-40-anniversary.html
+slug: roe-vs-wade-40-anniversary
 ---
 		
 <strong>Roe v. Wade</strong>, the landmark Supreme Court case that upheld women's abortion rights, turns 40 this week. 18MR partners with the National Asian Pacific American Women's Forum (NAPAWF) discussing what reproductive rights and services are still needed for API women, and inviting you to submit your stories and photos!

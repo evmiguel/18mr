@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: 2020/11/coiniscare.html
+slug: coiniscare
 title: Coin Is Care
 category: communities
 tags: featured

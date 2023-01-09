@@ -9,6 +9,7 @@ blurb: “We’re not going anywhere. Like our ancestors, we’re changing a sys
 tweet: "We’re not going anywhere. Like our ancestors, we’re changing a system that will resist us at all costs."
 facebook: We’re not going anywhere. Like our ancestors, we’re changing a system that will resist us at all costs. 
 permalink: 2020/11/postelection.html
+slug: postelection
 ---
 
 Yesterday was the most important election in a generation. While ballots are counted, we probably won’t know the results for the next few days or possibly even longer. But that hasn’t stopped Trump from falsely declaring victory and demanding an end to ballot counting. Although this is a chaotic and stressful time, we want you to know: we’re not going anywhere. 
