@@ -5,7 +5,7 @@ permalink: /2014/05/deeper-words-donald-sterling.html
 slug: deeper-words-donald-sterling
 category: ideas
 author: Soya Jung
-featured-image: '/static/images/featured/2014-05-07-deeper-words-donald-sterling.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-05-07-deeper-words-donald-sterling.jpg'
 featured-alt-text: "LA Clippers owner Donald Sterling watches from the sidelines, a stern look on his face."
 tweet: "#DonaldSterling's racism holds a much deeper story about racial politics in the U.S.: "
 facebook: "The fact that Slate found no public complaints against Sterling by Asian American groups or individuals should not shock us, nor should the complicity of Sterling’s Korean-born guards in discriminating against non-Asian people of color. This is how the model minority myth works, and has always worked. It maintains systems of racialized advantage and disadvantage by rewarding assimilation to whiteness and justifying the criminalization of blackness."

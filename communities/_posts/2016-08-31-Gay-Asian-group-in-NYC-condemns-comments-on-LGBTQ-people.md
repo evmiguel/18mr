@@ -3,7 +3,7 @@ layout: post
 title: "Gay Asian Group in NYC Condemns NYS Senate Candidate SJ Jung's Comments on LGBTQ People"
 category: communities
 author: "Gay Asian Pacific Islander Men of New York"
-featured-image: '/static/images/featured/2016-08-31-gay-asian-group-in-nyc-condemns-comments-on-lgbtq-people.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-08-31-gay-asian-group-in-nyc-condemns-comments-on-lgbtq-people.jpg'
 featured-alt-text: "Members of Gay Asian Pacific Islander Men in New York (GAPIMNY) march at the NYC Trans Day of Action in 2014, holding a colorful banner that spells 'GAPIMNY'."
 tweet: ".@GAPIMNY: A Korean Am state senate hopeful's platform speaks to homophobia in AAPI communities"
 facebook: "For decades, GAPIMNY has fought homophobia, transphobia, and racism on all fronts. NYS Senate candidate S.J. Jung's recent remarks are a reminder of the work that still needs to be done to combat homophobia in Asian American communities."

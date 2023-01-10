@@ -3,7 +3,7 @@ layout: post
 title: "18 Million Hearts: AAPIs for Immigration Reform"
 category: communities
 author: Cynthia Brothers
-featured-image: '/static/images/featured/2013-02-27-18-million-hearts-aapis-immigration-reform.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-02-27-18-million-hearts-aapis-immigration-reform.jpg'
 featured-alt-text: "A banner featuring five images of AAPIs. From left to right: three generations of a family of five stands outside, hugging; three sisters in saris smile at the camera; two AAPI brides smile tenderly at each other at their wedding; three generations of a family of six attend their daughter's college graduation; a Sikh American man in a turban carrying the American flag. The text reads: '#18millionhearts for fair and just immigration reform. Sign the petition. Join the campaign."
 tweet: "18 Million Hearts: AAPIs for Just Immigration Reform #18millionhearts"
 facebook: "The time has come for immigration reform. Today, 18MR and The Asian American Center for Advancing Justice launched the 18 Million Hearts campaign to lift up the voices of AAPIs in the national discussion. Stand with us and tell decision makers you want fair and just immigration reform!"

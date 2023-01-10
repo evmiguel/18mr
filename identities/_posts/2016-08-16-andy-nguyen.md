@@ -4,7 +4,7 @@ title: "From A Child of Refugee Parents: We Can Make Things Better"
 category: identities
 tags:
 author: Andy Nguyen
-featured-image: '/static/images/featured/2016-08-11-andy-nguyen.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-08-11-andy-nguyen.jpg'
 featured-alt-text: "Southeast Asian family with five kids and two women stands in front of beach. Most smile into the camera, others aren't ready."
 tweet: "As a child of refugee parents, my parents barely spoke English. We weren't rich. We weren't the model minorities #AllCaliforniansCount"
 facebook: "As a child of refugee parents, my parents barely spoke English. We weren't rich. We weren't the model minorities #AllCaliforniansCount Sign the petition: http://action.18mr.org/AB1726/"

@@ -4,7 +4,7 @@ title: "How We Remember Makes a Difference"
 category: ideas
 tags: featured
 author: "Cayden Mak"
-featured-image: '/static/images/featured/2017-10-06-tulelake.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2017-10-06-tulelake.jpg'
 featured-alt-text: "A side-by-side of Tule Lake today, and during the war, showing buildings, a mountain, and flat empty land."
 tweet: "%23SaveTuleLake is driven by the impulse to remember history as it was%2C not as it is whitewashed to be%2C writes %40cayden"
 facebook: "The images you choose to represent a historical moment matter - and putting up a statue to a supposed great man who committed atrocities is worlds away from preserving a place where the innocent struggled and in some cases died." 

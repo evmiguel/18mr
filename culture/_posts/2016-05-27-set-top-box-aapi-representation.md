@@ -3,7 +3,7 @@ layout: post
 title: "What Opening the Set-Top Box Means for AAPI Representation"
 category: culture
 author: Mark Tseng Putterman
-featured-image: '/static/images/featured/2016-05-31-set-top-box-AAPI-representation.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-05-31-set-top-box-AAPI-representation.jpg'
 featured-alt-text: "Phil Yu, Jenny Yang, and others gather around a table to host an episode of Angry Asian America on ISATV, and hub of Asian American independent media content."
 tweet: "Worried about AAPI media representation? This FCC proposal could make all the difference."
 facebook: "Worried about AAPI media representation? Us too. Learn how the FCC proposal to unlock the cable set-top box could make all the difference in the world."

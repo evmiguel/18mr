@@ -3,7 +3,7 @@ layout: post
 title: "Unmasking Yellow Peril"
 category: communities
 tags: featured
-featured-image: '/static/images/featured/unmasking_an.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmasking_an.jpg'
 author: "Turner Willman & Jason Chang" 
 blurb: Unmasking Yellow Peril seeks to ground ourselves in the long history of Yellow Peril, uncover its many forms, and resist it in the time of COVID-19. 
 Tweet: “Unmasking Yellow Peril seeks to ground ourselves in the long history of Yellow Peril, uncover its many forms, and resist it in the time of COVID-19. ”
@@ -18,7 +18,7 @@ What we are experiencing in 2020 is tied to the violence of the mid-1800s when C
 
 The onset of the COVID-19 pandemic fit the ready-made story of Yellow Peril in the US. Racist responses to the spread of the disease are consistent with a history of treating Asians as a foreign threat. Part of undoing the power of Yellow Peril is confronting the history of empire, capitalism, and white supremacy and building a vision of peace, justice, and health which celebrates and honors our interdependence. 
 
-<a href="https://gum.co/18MRUYP"><center><img src="/static/images/featured/zine_blog_product.jpg" hspace="" style="width: 100%; height: 100%"></center></a>
+<a href="https://gum.co/18MRUYP"><center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/zine_blog_product.jpg" hspace="" style="width: 100%; height: 100%"></center></a>
 
 <b>[Unmasking Yellow Peril](https://gum.co/18MRUYP) is a collaboration between 18 Million Rising, [the Asian and Asian American Studies Institute at the University of Connecticut,](https://asianamerican.uconn.edu/) and Jason Oliver Chang, Associate Professor of History and Asian American Studies at the University of Connecticut.</b> We seek to ground ourselves in the long history of Yellow Peril, uncover its many forms, and resist it in the time of COVID-19.
 
@@ -28,11 +28,11 @@ The onset of the COVID-19 pandemic fit the ready-made story of Yellow Peril in t
 
 Throughout history, the “perpetual foreigner” stereotype has meant that Asian Americans (and other people of color) have been denied the ability to be unquestionably American. When you’re seen as foreign, you’re seen as disposable and exploitable. This is not a casual discrimination but a deep seated bias that sustains capitalist exploitation. The proof is written into the labor history of Asian America.
 
-<center><img src="/static/images/featured/unmask_pf2.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmask_pf2.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
 In the 1800s, contracted laborers, known as “Coolies,” from Southern China and South Asia were [exported to colonial plantations](https://www.archives.gov/publications/prologue/2001/summer/coolie-ship-kate-hooper-1.html) to replace emancipated enslaved Africans. The working conditions of coolies earned them a reputation as poor, dirty, and diseased. When other Chinese laborers migrated alongside the coolie trade, these stereotypes applied to them as well. In California during the Gold Rush and railroad boom, tens of thousands of Chinese arrived in North America. Despite generating enormous wealth at low wages, Chinese laborers were identified as [a scourge of the American west](https://www.hup.harvard.edu/catalog.php?isbn=9780674976016) by white labor unions and settler communities in the frontier.
 
-<center><img src="/static/images/featured/unmask_pf1.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmask_pf1.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
 At the turn of the century, American colonizers in the Philippines were waging a war not only against freedom fighters, but a war against what they deemed the [uncivilized and diseased nature](https://www.dukeupress.edu/colonial-pathologies) of Filipino people. Black soldiers were even sent to participate in the Philippine American War and were believed to have [immunity to tropical diseases](https://armyhistory.org/the-black-immune-regiments-in-the-spanish-american-war/) common there. Part of their “civilizing” work included American-style education such as [nursing programs](https://news.berkeley.edu/2019/05/28/filipino-nurses-in-the-us-podcast/). Filipinos now make up the [largest immigrant supply of nurses in the US](https://www.dukeupress.edu/empire-of-care), and are a critical frontline response to COVID-19, [where they are dying](https://www.theguardian.com/us-news/2020/apr/15/nurses-surgeons-janitors-first-us-health-workers-to-die-covid-19) due to lack of Personal Protective Equipment. 
 
@@ -40,7 +40,7 @@ Today, many South Asian immigrants hold H1-B visas in the tech industry. Even th
 
 During WWII, some Chinese Americans sought to distance themselves from the hate directed at Japanese Americans [through buttons](https://calisphere.org/item/ark:/13030/hb1g5003tx/) and [signs](https://ww2db.com/image.php?image_id=23010). Today, we can see many Asian Americans [proudly claim that they are not Chinese,](https://twitter.com/ursulaliang/status/1247367738475061248) and therefore not responsible for the [“Chinese Virus.”](https://www.theguardian.com/world/2020/mar/24/coronavirus-us-asian-americans-racism) Yellow Peril collapses Asian Americans into a monolithic foreign threat. Fear is a powerful tool of division. Our best response is to resist white supremacy and xenophobia in solidarity with one another. 
 
-<center><img src="/static/images/featured/unpask_pf3.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unpask_pf3.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
 
 YOU CAN’T EARN YOUR WAY INTO BELONGING. You belong because you’re here. Despite what [Andrew Yang may say,](https://www.washingtonpost.com/opinions/2020/04/01/andrew-yang-coronavirus-discrimination/) Asian American patriotism and respectability politics will never end violent xenophobia in a time of COVID-19. White people are viewed as American not because they labored hard for it, but because the law is built on exclusion and subordination of people of color.
@@ -49,7 +49,7 @@ YOU CAN’T EARN YOUR WAY INTO BELONGING. You belong because you’re here. Desp
 
 The imagined fear of a foreign threat is step one in the Yellow Peril playbook. The next, is often, the eradication of an enemy within. Our physical space determines how we survive. Notions of Yellow Peril have impacted Asian American communities and space throughout history and continues to be embedded in placemaking today.
 
-<center><img src="/static/images/featured/unmask_place1.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmask_place1.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
 In the late 1800s, [over 100 settlements up and down the West Coast](https://longreads.com/2019/02/18/i-saw-my-countrymen-marched-out-of-tacoma/) violently forced out their Chinese immigrant residents. Thousands of people were run out of town while rioting white mobs looted homes and businesses. Many of the spaces we may think of as “white” spaces are actually sites with a brutally erased Chinese American history. 
 
@@ -60,11 +60,11 @@ Yellow Peril does not only impact East Asians. From the 1880’s, Bengali Muslim
  
 Fast forward to 2020: Yellow Peril erupts during the COVID-19 pandemic. Once again, Chinese Americans (as well as other Asian Americans) face blame for the “foreign” virus, racist abuse, and a rapid withdrawal of business in ethnic enclaves. Chinatown residents, already resisting gentrification and years of disinvestment, struggle to keep customers and survive. 
 
-<center><img src="/static/images/featured/unmask_place2.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmask_place2.jpg" hspace="" style="width: 100%; height: 100%"></center>
  
 But we cannot talk about racism during COVID-19 without talking about anti-Blackness. While Asian Americans are facing [a rise in harassment and hate crimes,](https://www.nytimes.com/2020/03/23/us/chinese-coronavirus-racist-attacks.html) our oppression is not the same as the violence Black Americans experience. During this pandemic, Black people face [racial profiling](https://www.nytimes.com/2020/04/14/us/coronavirus-masks-racism-african-americans.html) for wearing masks, on top of [crushing disparities](https://www.theatlantic.com/ideas/archive/2020/04/race-and-blame/609946/) in COVID-19 hospitalizations and deaths. [Generations of systemic racism](https://www.vox.com/identities/2020/4/7/21211849/coronavirus-black-americans) in the form of food deserts, low-wage work, environmental racism, redlining, and more continue to create dangerous conditions for Black Americans. No matter the space, they are profiled -- [even as frontline responders.](https://www.nytimes.com/2020/04/14/us/armen-henderson-arrested-homeless-coronavirus-testing.html) 
 
-<center><img src="/static/images/featured/unmask_place3.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmask_place3.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
 
 Also, [prisons and detention centers are major incubators for viral outbreaks](https://time.com/5821512/bail-campaigns-new-york-inmates-coronavirus/) because Black and brown lives are considered expendable. Mass incarceration during COVID-19 is a death sentence. Prisoners and detainees, disproportionately poor Black and brown people, are [denied soap, running water, and physical space.](https://www.thenation.com/article/society/coronavirus-nyc-jails/) [This is torture](https://www.motherjones.com/politics/2020/04/a-doctor-on-ices-response-to-the-pandemic-you-could-call-it-covid-19-torture/) as prison staff and ICE officers infect people who are caged. As we write this, the [infection rate on Rikers Island is 9.18%](https://legalaidnyc.org/covid-19-infection-tracking-in-nyc-jails/) compared to New York City’s infection rate of 1.62%.  
@@ -77,15 +77,15 @@ As Asian Americans, we must not only organize in our own spaces, but [rise in so
 
 Did you know that Chinese migrants were the first “illegal immigrants”? The original efforts to police the US-Mexico border were designed to [keep Chinese immigrants out.](https://timeline.com/mexican-border-chinese-wall-62bda038c29a) The Chinese Exclusion Act of 1882 was the result of a national campaign to exclude Chinese people out of racist fears. Chinese immigrants resisted the ban by entering through the Southern border, [forming connections with Mexicans](https://uapress.arizona.edu/book/the-chinese-in-mexico-1882-1940) along the way. The US responded by supplying special agents known as [“Chinese Catchers”](https://books.google.com/books?id=BDqUb8UiCIkC&pg=PA186&lpg=PA186&dq=Chinese+Catchers&source=bl&ots=R4AeHAyOL6&sig=uplDaEhq9eOph4Ri2PERM_OxGoo&hl=en&sa=X&ved=0ahUKEwjQ7pW0u-_SAhVC8GMKHU9aCKkQ6AEIQTAJ#v=onepage&q=Chinese%20Catchers&f=false) to find and deport those without documentation. These Chinese Catchers became the origins of the [US Border Patrol,](https://www.ucpress.edu/book/9780520266414/migra) founded in 1924. 
 
-<center><img src="/static/images/featured/unmask_bi1.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmask_bi1.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
 Decades later, after WWII Japanese incarceration ended, some of the fences previously used to keep Japanese Americans in, [were reused](https://www.youtube.com/watch?v=FxbXhSAia_o) to build the US-Mexico border wall and keep others out. The militarization of the border has always been [connected to U.S. war making,](https://www.thenation.com/article/archive/the-militarization-of-the-southern-border-is-a-long-standing-american-tradition/) including the fragmentation of [indigenous Tohono O’odham land.](https://english.elpais.com/elpais/2017/03/14/inenglish/1489495818_438235.html)
 
-<center><img src="/static/images/featured/unmask_b2.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmask_b2.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
 This early 20th century form of Yellow Peril border policing grew into the colossal apparatus we resist today: ICE raids in [our communities,](https://www.thenation.com/article/archive/southeast-asian-refugees-deportation/) mass immigration detention, [high-tech surveillance, vigilante violence,](https://www.eff.org/aos-explore-border-data) and more -- usually deployed against Latinx immigrant communities. Every dollar spent on border policing has twice the negative impact, first by bringing violence into our communities and second by diminishing funding otherwise spent on [social supports.](https://www.businessinsider.com/trump-expected-to-ask-for-2-billion-funding-border-wall-2020-2)
 
-<center><img src="/static/images/featured/unmask_b3.jpg" hspace="" style="width: 100%; height: 100%"></center>
+<center><img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/unmask_b3.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
 Anti-Asian pathogen racism has shaped immigration policing throughout history. Asian immigrants entering the US through Angel Island Immigration Station between 1910 and 1940 were often held indefinitely and subject to [quarantine, disinfection, and invasive medical examinations.](https://news.berkeley.edu/2020/02/12/coronavirus-fear-of-asians-rooted-in-long-american-history-of-prejudicial-policies/) This treatment was replicated with Mexican braceros who [were fumigated](http://objectofhistory.org/objects/extendedtour/shorthandledhoe/?order=4) with the dangerous pesticide DDT upon entry to the US. Yellow Peril casts Asians as diseased in order to justify populist xenophobia, immigration restrictions, and denial of political rights. In the time of COVID-19, conservatives [point to](https://www.politifact.com/factchecks/2020/feb/28/charlie-kirk/checking-tweet-about-chinese-people-detained-flu-s/) the “weak” border as a health threat, while [ICE deports those infected with the virus.](https://www.nytimes.com/2020/04/18/us/deportations-coronavirus-guatemala.html) 
 

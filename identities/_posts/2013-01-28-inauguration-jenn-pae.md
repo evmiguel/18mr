@@ -4,7 +4,7 @@ title: "Jenn Pae shares Inauguration experience"
 category: identities
 tags:
 author: Jenn Pae
-featured-image: '/static/images/featured/2013-01-28-tammy.JPG'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-01-28-tammy.JPG'
 featured-alt-text: "From left: 18MR's Jenn Pae, Congresswoman Tammy Duckworth, Genevieve Villafranca Jopanda of KAYA: Filipino Americans for Progress"
 tweet: "#18MR's Jenn Pae shares Inauguration experience"
 facebook: "18MR campaign manager Jenn Pae shares her experiences at last week's Presidential Inauguration!"

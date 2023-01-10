@@ -5,7 +5,7 @@ permalink: /2014/10/we-read-who-we-be-jeff-chang.html
 slug: we-read-who-we-be-jeff-chang
 category: ideas
 author: Cayden Mak
-featured-image: '/static/images/featured/2014-10-20-who-we-be.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-10-20-who-we-be.jpg'
 featured-alt-text: "The cover of Jeff Chang's 2014 book, 'Who We Be,' with the autho's name at the top, citing him as 'American Book Award-winning Author of 'Can't Stop Won't Stop'. The title is in big white block letters in the center. At the bottom, the subtitle 'The Colorization of America' is in red and pink."
 permalink: /2014/10/we-read-who-we-be-jeff-chang.html
 slug: we-read-who-we-be-jeff-chang

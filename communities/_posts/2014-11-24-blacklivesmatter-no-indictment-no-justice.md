@@ -3,7 +3,7 @@ layout: post
 title: "#BlackLivesMatter: No Indictment, No Justice"
 category: communities
 author: C.M. Samala
-featured-image: '/static/images/featured/2014-11-24-blacklivesmatter-no.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-11-24-blacklivesmatter-no.png'
 featured-alt-text: "On a black background, a quote from Lesley McSpadden & Michael Brown, Sr.'s press release: 'We ask that you channel your frustration in ways that will make a positive change. We need to work together to fix the system that allowed this to happen."
 tweet: "No indictment. No justice whatsoever. #BlackLivesMatter"
 facebook: "Our justice system has failed America, period."

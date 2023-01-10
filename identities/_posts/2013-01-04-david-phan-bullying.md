@@ -4,7 +4,7 @@ title: "Hyphen on David Phan and School Bullying"
 category: culture
 tags:
 author: 18MillionRising.org
-featured-image: '/static/images/featured/2013-01-04-david-phan-bullying.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-01-04-david-phan-bullying.jpg'
 featured-alt-text: “A 14 year old Asian boy, David Phan, smiles into the camera. He has braces and wears a grey cap. He is outdoors with trees in the background.”
 tweet: "Hyphen's article on the tragic suicide of David Phan and school bullying #18MR"
 facebook: "Hyphen's article on the tragic suicide of David Phan and school bullying #18MR"

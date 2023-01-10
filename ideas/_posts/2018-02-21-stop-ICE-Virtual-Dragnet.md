@@ -4,7 +4,7 @@ title: "Perpetual Foreigners in ICE's Virtual Dragnet"
 category: ideas
 tags: featured
 author: "Laura Li"
-featured-image: '/static/images/featured/2018-02-08-ICE-Virtual-Dragnet.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2018-02-08-ICE-Virtual-Dragnet.jpg'
 featured-alt-text: "A flier reading ICE's Virtual Dragnet and a picture of a passport"
 tweet: "Asian Americans and communities of color will be caught in %23ICE Dragnet that will continuously scan social media/internet to flag 10,000+ ppl annually for deportation investigations or visa denials based on vague criteria."
 facebook: "ICE plans to build a deportation machine that will continuously scan social media to flag 10,000+ people for deportation per year and Asian Americans and other people of color will be targeted."

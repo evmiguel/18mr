@@ -3,7 +3,7 @@ layout: post
 title: "We Cannot Walk Alone: Remembering the March on Washington"
 category: communities
 author: C.M. Samala
-featured-image: '/static/images/featured/2013-08-27-we-cannot-walk-alone.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-08-27-we-cannot-walk-alone.jpg'
 featured-alt-text: "A photo of an Asian man with a mustache and goatee, in a yellow t-shirt, holding a sign that reads 'MISS(ED) SAIGON' against a red background. His eyes are cut off in the image."
 tweet: "Our nation does not exist solely in black and white — and it never has."
 facebook: "Our nation does not exist solely in black and white — and it never has."

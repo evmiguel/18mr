@@ -3,7 +3,7 @@ layout: post
 title: "Three Ways AAPIs Can Help Seek Justice for Michael Brown"
 category: communities
 author: PaKou Her
-featured-image: '/static/images/featured/2014-08-20-three-ways-aapis-can-help-seek-justice-michael-bro.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-08-20-three-ways-aapis-can-help-seek-justice-michael-bro.jpg'
 featured-alt-text: "A Mary Engelbreit illustration showing a Black mother seated at a kitchen table, shedding a tear and holding her young son, who has his hands in the air. In front of them is a newspaper with the headline, 'Hands Up! Don't Shoot.' The text reads 'No one should have to teach their children this in the USA.'"
 tweet: "How can AAPIs help work for justice for Michael Brown? #Ferguson "
 facebook: "As Asian Americans and Pacific Islanders, Ferguson is a call to action and solidarity. While our experiences with racism are not the same as the trauma of racism lived by Black people, there are plenty of reasons to be enraged about the damage being wrought by institutional racism. If we as AAPIs fail to act, if we remain silent and choose to fill the shoes of the “model minority,” we have chosen the side of oppression."

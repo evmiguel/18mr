@@ -5,7 +5,7 @@ permalink: /2013/09/war-before-memory.html
 slug: war-before-memory
 category: culture
 author: Bao Phi
-featured-image: '/static/images/featured/2013-09-16-war-before-memory.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-09-16-war-before-memory.jpg'
 featured-alt-text: "A photo of an Asian man with a mustache and goatee, in a yellow t-shirt, holding a sign that reads 'MISS(ED) SAIGON' against a red background. His eyes are cut off in the image."
 tweet: "Theater fans & American imperialism: the real star-crossed lovers of #missedsaigon."
 facebook: "Miss Saigon is a musical about Vietnamese women, who are all victims in need of rescue from the Third World. It is a musical about the inherent goodness of flawed white men. Vietnamese men are all abusive, sexist assholes who are so small they can't even expand to fit into two dimensions. Also, mixed race orphans will have it better in America but that goes without saying. The play is also, supposedly, about the Vietnam War."

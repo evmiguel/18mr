@@ -3,7 +3,7 @@ layout: post
 title: "To the next POTUS: For communities of color, encryption is a civil right"
 category: communities
 author: "Steven Renderos and Mark Tseng Putterman"
-featured-image: '/static/images/featured/2016-05-11-POTUS-encryption-civil-right.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-05-11-POTUS-encryption-civil-right.jpg'
 featured-alt-text: "A graffiti stencil on a building wall depicts seven shadowed figures holding protest signs that together read: 'FREEDOM: speech, thought, religion, expression, assembly, choice, association.'"
 tweet: ".@stevenrenderos + @tsengputterman argue encryption must be part of any racial justice platform"
 facebook: "To champion civil rights, the next POTUS must defend encryption and digital privacy for all communities -- especially those of color."

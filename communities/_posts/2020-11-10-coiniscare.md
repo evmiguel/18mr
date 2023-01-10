@@ -5,12 +5,12 @@ slug: coiniscare
 title: Coin Is Care
 category: communities
 tags: featured
-featured-image: '/static/images/featured/EOY_1.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/EOY_1.jpg'
 author: 18MR Staff
 blurb: “Will you invest in your radical Asian American home?”
 ---
 
-<img src= '/static/images/featured/EOY_1.jpg'>
+<img src= 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/EOY_1.jpg'>
 
 <html>
 <head>
@@ -35,7 +35,7 @@ padding: 15px 20px;
 }
 
 .button1 {background-color: #E92484; font-family: league-gothic;
-  src: url("../static/fonts/leaguegothic-regular-webfont.woff"); } /* Pink */
+  src: url("..https://storage.googleapis.com/18mr-static-assets/static/fonts/leaguegothic-regular-webfont.woff"); } /* Pink */
 </style>
 </head>
 <body>
@@ -55,7 +55,7 @@ But we learned that what we do with our grief is part of who we become. And this
 
 In times of uncertainty, 18MR is certain that we are your radical Asian American home. <b>Now, we’re launching our most ambitious fundraising campaign yet: raising $10,000 by the end of the month. </b>
 
-<img src= '/static/images/featured/EOY_2.jpg'>
+<img src= 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/EOY_2.jpg'>
 
 <html>
 <head>
@@ -75,7 +75,7 @@ In times of uncertainty, 18MR is certain that we are your radical Asian American
 }
 
 .button1 {background-color: #E92484; font-family: league-gothic;
-  src: url("../static/fonts/leaguegothic-regular-webfont.woff"); } /* Pink */
+  src: url("..https://storage.googleapis.com/18mr-static-assets/static/fonts/leaguegothic-regular-webfont.woff"); } /* Pink */
 </style>
 </head>
 <body>
@@ -103,7 +103,7 @@ Asians For Black Lives is more than a slogan-- it means resourcing Black lives. 
 <b><i>Your coin is care. Will you invest in your radical Asian American home?</i></b>
 
 
-<img src= '/static/images/featured/FUNDRAISING TIERS.png'>
+<img src= 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/FUNDRAISING TIERS.png'>
 <html>
 <head>
 <style>
@@ -122,7 +122,7 @@ Asians For Black Lives is more than a slogan-- it means resourcing Black lives. 
 }
 
 .button1 {background-color: #E92484; font-family: league-gothic;
-  src: url("../static/fonts/leaguegothic-regular-webfont.woff"); } /* Pink */
+  src: url("..https://storage.googleapis.com/18mr-static-assets/static/fonts/leaguegothic-regular-webfont.woff"); } /* Pink */
 </style>
 </head>
 <body>

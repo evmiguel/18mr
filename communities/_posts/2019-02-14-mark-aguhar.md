@@ -3,7 +3,7 @@ layout: post
 title: "Love Letters to Movement Leaders: Mark Aguhar"
 category: communities
 tags: featured
-featured-image: '/static/images/featured/2019-02-14-Mark_LL.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2019-02-14-Mark_LL.png'
 author: "Turner Willman"
 blurb: "We're remembering Filipinx American, Mark Aguhar, who celebrated femme of color resilience and beauty through her artwork."
 tweet: "%4018MillionRising remembers our movement leaders on Valentine's Day with a letter to Mark Aguhar, a fierce Filipinx American artist who explored queer and trans femme identity through her art. %23LoveLetterstoMovementLeaders"
@@ -21,7 +21,7 @@ Today is Valentine’s Day and I’m dedicating this love letter to you -- and a
 
 Your artwork and blog were heavily inspired by your identity as a fat, Filipinx, trans femme. You posted affirming self-portraits, wrote about survival and mental health, raged against white male privilege, and documented both humorous and mundane moments in your life. 
 
-<img src="/static/images/featured/Aguhar_P1.jpg" title="WHITEGIRLPROBLEMS" alt="work">
+<img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/Aguhar_P1.jpg" title="WHITEGIRLPROBLEMS" alt="work">
 
  <center><sub><sup><i>ABOVE: #WHITEGIRLPROBLEMS (#NOTATHING),Mark Aguhar, 2012)</i></sup></sub></center>
 
@@ -42,7 +42,7 @@ In a blog post dated November 2011, you said:
 
 May we all carry your torch by lifting up and celebrating sisters like you, Mark. 
 
-<img src="/static/images/featured/Aguhar_P2.png" title="portrait" alt="Aguhar">
+<img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/Aguhar_P2.png" title="portrait" alt="Aguhar">
 
  <center><sub><sup><i>ABOVE: Mark Aguhar, 2012 </i></sup></sub></center>
 

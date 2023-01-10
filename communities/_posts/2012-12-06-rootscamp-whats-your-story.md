@@ -3,7 +3,7 @@ layout: post
 title: "Rootscamp: What's (Y)our AAPI Story? #18MR"
 category: communities
 author: "C.M. Samala"
-featured-image: '/static/images/featured/2012-12-06-rootscamp3.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2012-12-06-rootscamp3.jpg'
 featured-alt-text: "A brown-skinned person writes on a pad of poster paper 'Workshop Titles.' Some of the entries on the list read: 'The Global Citizen,' 'Asian American OR American Asian,' and 'Defining American: The AAPI Narrative.'"
 tweet: ".@Samala recaps the 2012 Rootscamp AAPI Caucus and how to build community on and offline."
 facebook: "18MR Director Samala recaps the 2012 (First!) Rootscamp AAPI Caucus, and how we can keep building community both on and offline." 

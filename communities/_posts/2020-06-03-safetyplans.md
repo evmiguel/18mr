@@ -3,7 +3,7 @@ layout: post
 title: "What Do I Do Now? Next Steps And Police Alternatives"
 category: communities
 tags: featured
-featured-image: '/static/images/featured/Next_Steps_teal.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/Next_Steps_teal.png'
 author: "18MR Staff" 
 blurb: "The 18MR team put together a list of resources for you. Whether you’re dealing with difficult “what ifs” about different kinds of crime or ready to jump in and start making your household or family safety plan, there’s a little bit of everything."
 Tweet: “Wondering what comes next? Here are some tools and resources to think about a world beyond policing.”

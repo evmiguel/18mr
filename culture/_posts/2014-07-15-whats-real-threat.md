@@ -5,7 +5,7 @@ permalink: /2014/07/whats-real-threat.html
 slug: whats-real-threat
 category: culture
 author: Balpreet Singh
-featured-image: '/static/images/featured/2014-07-15-whats-real-threat.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-07-15-whats-real-threat.jpg'
 featured-alt-text: "A Sikh basketball player wearing a turban and an Indian national jersey mid-flight, towards the rim, with a basketball in hand."
 tweet: "Why does @FIBA ban the turban in its tourneys? Balpreet Singh argues the real threat is the ban. "
 facebook: "The highlight for India’s citizens and fans at the Asia Cup this year has been India’s leading scorers, Amrit Pal Singh and Amjyot Singh, who are both turban-wearing Sikhs. They led their team in a win over China at the Asia Cup, a true upset, as China was ranked 12th in the world. In fact, Amjyot Singh’s exciting alley-oop dunk went viral on YouTube. He has been dubbed the 'Indian Kobe', credited for helping inspire the rapidly growing interest for basketball in a nation of 1.3 billion."

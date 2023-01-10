@@ -5,7 +5,7 @@ permalink: /2014/06/search-justice-another-way-remember-vincent-chin.html
 slug: search-justice-another-way-remember-vincent-chin
 category: ideas
 author: Cayden Mak
-featured-image: '/static/images/featured/2014-06-29-search-justice-another-way-remember-vincent-chin.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-06-29-search-justice-another-way-remember-vincent-chin.png'
 featured-alt-text: "A grave reading 'Forever in our hearts beloved son Vincent J. Chin May 18, 1955 - June 23, 1982.' In front of it is an offering of incense and oranges."
 tweet: ".@cayden on the 32nd anniversary of Vincent Chin's death: a call for Asian Americans to commit to prison abolition. "
 facebook: "Vincent Chin has been on my mind a lot lately. It's not just because he passed away 32 years ago Monday, or that I'm the same age now that he was when he was murdered."

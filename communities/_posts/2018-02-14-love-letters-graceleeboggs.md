@@ -2,7 +2,7 @@
 layout: post
 title: "Love Letters to Movement Leaders: Grace Lee Boggs"
 category: communities
-featured-image: '/static/images/featured/2018-02-14-love-letters-graceleeboggs.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2018-02-14-love-letters-graceleeboggs.jpg'
 author: "Laura Li"
 blurb: " Dear Grace Lee Boggs, Now more than ever, we need your vision of radical love, one that pushes us to support and affirm ourselves by breaking free of the old categories that have always defined us by what oppresses us. "
 tweet: ".%4018MillionRising.org's remembers our ancestors, inspirations, and movement leaders with a letter to .%40GraceLeeBoggs %23LoveLetterstoMovementLeaders"

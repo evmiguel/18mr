@@ -6,7 +6,7 @@ slug: stop-madness
 category: identities
 tags: featured
 author: C.M. Samala
-featured-image: '/static/images/featured/2013-11-10-stop-madness.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-11-10-stop-madness.jpg'
 featured-alt-text: "A Filipina woman in a black tank top lights candles on an altar in front of lush vegetation."
 tweet: "When even Filipinos are worried about the weather, it's time to listen cc @yebsano #climatefast #Haiyan"
 facebook: "When Filpinos start worrying about weather and commenting on it, it's time for all of us to take note and pay attention."

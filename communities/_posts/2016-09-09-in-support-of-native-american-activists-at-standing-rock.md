@@ -3,7 +3,7 @@ layout: post
 title: "Asian Americans Must #StandWithStandingRock"
 category: communities
 author: "18MillionRising"
-featured-image: '/static/images/featured/2016-09-09-standing-rock-sioux.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-09-09-standing-rock-sioux.jpg'
 featured-alt-text: "A paved road is filled with countless rows of Native American activists, many with raised fists. A red banner in the front reads: 'Defend The Sacred'. A clear landscape fades into a dark, overcast, sky."
 tweet: "Asian Americans must draw on past solidarity with Native struggle and support the %23NoDAPL fight"
 facebook: "Asian Americans must draw on our historical spirit of solidarity and shared struggle with Native American communities to support the #NoDAPL fight for Sioux self-determination at Standing Rock."
@@ -30,7 +30,7 @@ At 18MR, we believe that our Asian American movement is strongest when it confro
 <br>
 Our Asian American tapestry, diverse and beautiful as it is, is woven on a fabric of Native American dispossession. Our Chinese American elders who worked and died constructing the Transcontinental Railroad labored in service of white America’s vision of Manifest Destiny, a vision that necessitated the Trail of Tears. And our immigrant and refugee stories are too often co-opted in service of a “nation of immigrants” narrative that erases this country’s founding pillars of slavery and genocide.  
 
-<a href="http://go.galegroup.com/ps/anonymous?id=GALE%7CA359131052&sid=googleScholar&v=2.1&it=r&linkaccess=fulltext&issn=00933139&p=AONE&sw=w&authCount=1&isAnonymousEntry=true">![A group of predominantly East Asian men stroll confidently down a street. Graffiti on a house beside them reads 'Indian American Land'. the picture depicts an Asian American delegation to the occupation of Alcatraz in 1970.](/static/images/blog/2016-09-09-in-support-of-native-american-activists-at-standing-rock/2016-09-09-asian-americans-alcatraz.jpg)</a>
+<a href="http://go.galegroup.com/ps/anonymous?id=GALE%7CA359131052&sid=googleScholar&v=2.1&it=r&linkaccess=fulltext&issn=00933139&p=AONE&sw=w&authCount=1&isAnonymousEntry=true">![A group of predominantly East Asian men stroll confidently down a street. Graffiti on a house beside them reads 'Indian American Land'. the picture depicts an Asian American delegation to the occupation of Alcatraz in 1970.](https://storage.googleapis.com/18mr-static-assets/static/images/blog/2016-09-09-in-support-of-native-american-activists-at-standing-rock/2016-09-09-asian-americans-alcatraz.jpg)</a>
 
 But many Asian American activists have seen aspects of our struggle in the Native American experience. From Vietnam to Hiroshima to the Philippines, we are intimately familiar with the impacts of American empire and the devastation and displacement it brings. We have witnessed our Native Hawaiian and Pacific Islander kin struggle under U.S. occupation. These ongoing fights, like the fight to stop the construction of [Thirty Meter Telescope](http://hawaiitribune-herald.com/news/local-news/taking-stand-standing-rock-tmt-protesters-join-native-americans-north-dakota) atop the most sacred peak in the Hawaiian archipelago, mirror Standing Rock Sioux demands for self-determination on their tribal land. 
 

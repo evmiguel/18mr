@@ -3,7 +3,7 @@ layout: full-width-post
 title: "Immigrant families will be punished for being poor "
 category: communities
 tags: featured
-featured-image: '/static/images/featured/2018-12-03-publicharge_salon_003.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2018-12-03-publicharge_salon_003.jpg'
 author: "Laura Li"
 blurb: "Trump’s DHS wants to deny immigrants from entering the U.S. or obtaining their green card. 18 Million Rising teamed up with comic artists Glenn Urieta and Keith Chow to fight Public Charge -- an attempt by the Trump administration to punish immigrant families who use programs like Medicaid and SNAP to survive. Speak out here!"
 tweet: ".18%20Million%20Rising%20teamed%20up%20with%20comics%20%40glennurieta%20and%20%40the_real_chow%20to%20fight%20Public%20Charge%20--%20an%20attempt%20by%20the%20Trump%20administration%20to%20punish%20immigrant%20families%20who%20use%20programs%20like%20Medicaid%20and%20SNAP%20to%20survive.%20Speak%20out%20here%20%23NoToPublicCharge"
@@ -12,7 +12,7 @@ permalink: /2018/11/public-charge-comic.html
 slug: public-charge-comic
 ---
 
-<image src="/static/images/featured/2018-12-03-publicharge_salon_003.jpg"></image>
+<image src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/2018-12-03-publicharge_salon_003.jpg"></image>
 
 **Trump's Department of Homeland Security (DHS) wants to use public assistance programs as a cover to deny immigrants from entering the U.S. or obtaining their green card.** 
 
@@ -26,14 +26,14 @@ With only a week left to tell DHS that this rule change is cruel and immoral, 18
 
 ## **LINH’S STORY**
 
-<image src="/static/images/featured/18mr_salon_strip.jpg"></image>
+<image src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/18mr_salon_strip.jpg"></image>
 
 
 Linh is a Vietnamese single mom working as a nail technician to support her two sons. She’s making $25,975, less than 125% of the poverty line for her family of three. This is a common reality in the nail salon industry, where 78% of nail salon employees are low wage workers, earning less than $13.46 an hour. Linh wants to use SNAP to provide fresh food for her sons, but with DHS’s proposed changes to public charge, both her income level and applying for SNAP would count against her in her residency application.[^1]
 
 ## **DAVESH'S STORY**
 
-<image src="/static/images/featured/18mr_bodega_strip.jpg"></image>
+<image src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/18mr_bodega_strip.jpg"></image>
 
 
 Davesh, is a Bengali dad who works at a bodega for 15 hours a day and earns less than $31,375 a year. With rising rents in their gentrifying neighborhood, he and his family have been living in a crowded one-bedroom apartment, but are on the waitlist for Section 8 Housing. With the proposed DHS changes to public charge regulations, his low-income and need for housing would prevent he and his wife from getting their green cards. 

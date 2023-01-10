@@ -5,7 +5,7 @@ permalink: /2013/03/and-hipster-racism-award-goes-gavin-mcinnes.html
 slug: and-hipster-racism-award-goes-gavin-mcinnes
 category: culture
 author: Cayden Mak
-featured-image: '/static/images/featured/2013-03-18-and-hipster-racism-award-goes-gavin-mcinnes.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-03-18-and-hipster-racism-award-goes-gavin-mcinnes.png'
 featured-alt-text: "A fake award certificate shows Gavin McInnes's goofy face superimposed with a shining crown. The award is titled 'Lifetime Achievement Award: Hipster Racism.'"
 permalink: /2013/03/and-hipster-racism-award-goes-gavin-mcinnes.html
 slug: and-hipster-racism-award-goes-gavin-mcinnes

@@ -2,7 +2,7 @@
 layout: post
 title: "Mahalo: Open Letter to Senator Daniel Inouye"
 category: communities
-featured-image: '/static/images/featured/2012-12-16-inouye.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2012-12-16-inouye.png'
 featured-alt-text: "A graphic displays an image of a black-and-white photo of Inouye in military uniform, and an image of an older Inouye before the U.S. Congress. Text reads: September 7, 1924-December 17, 2012."
 facebook: "Join 18MR in saying Mahalo to Senator Inouye for his devoted service."
 blurb: "Join 18MR in saying Mahalo to Senator Inouye for his devoted service."

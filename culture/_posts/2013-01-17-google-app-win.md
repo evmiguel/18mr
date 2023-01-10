@@ -4,7 +4,7 @@ title: "We Did It! Google Removes 'Make me Asian' & 'Make me Indian' Apps!"
 category: culture
 tags:
 author: 18MillionRising
-featured-image: '/static/images/featured/2013-01-17-google-app-win.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-01-17-google-app-win.jpg'
 featured-alt-text: "Two images before and after photo of a white woman in the Asian Maker application. In the second image, her eyes are purposely smaller, wearing a straw pointed hat and exaggerated goatee mustache."
 tweet: "We Won! Google pulls #racist 'Make me Asian' & 'Make me Indian' apps! #18MR"
 facebook: "We Won! Google pulls #racist 'Make me Asian' & 'Make me Indian' apps! #18MR"
@@ -17,7 +17,7 @@ slug: google-app-win
 
 <strong>18MR and Grumpy Cat just say OH HELL NO to racist apps! As of this morning, the "Make me Asian" and "Make me Indian" apps are gone, along with the developer's profile!</strong>
 
-![Grumpy cat with the google app called Asian Maker.](/static/images/blog/2013-01-17-grumpy-cat.jpg)
+![Grumpy cat with the google app called Asian Maker.](https://storage.googleapis.com/18mr-static-assets/static/images/blog/2013-01-17-grumpy-cat.jpg)
 
 Thanks to the efforts of our members and allies, these racist apps are no longer available on Google Play to perpetuate offensive portrayals of Asians and Native Americans. This victory is a step in the right direction to putting an end to the use of damaging racial stereotypes.
 

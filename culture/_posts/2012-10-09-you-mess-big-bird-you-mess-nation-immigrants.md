@@ -4,7 +4,7 @@ title: "You Mess with Big Bird, You Mess With A Nation of Immigrants"
 category: culture
 tags:
 author: Grace Hwang Lynch
-featured-image: '/static/images/featured/2012-10-09-you-mess-big-bird-you-mess-nation-immigrants.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2012-10-09-you-mess-big-bird-you-mess-nation-immigrants.jpg'
 featured-alt-text: "The iconic Sesame Street character Big Bird's face painted, mural-style, on a brick wall."
 tweet: "Why Big Bird matters even more for immigrants kids #18MR from @HapaMamaGrace"
 facebook: "Why Big Bird matters even more for immigrants kids #18MR from @HapaMamaGrace"

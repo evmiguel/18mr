@@ -3,7 +3,7 @@ layout: post
 title: "Love Letters to Movement Leaders: Mia Yamamoto "
 category: communities
 tags: featured
-featured-image: '/static/images/featured/MYAMAMOTO_LL.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/MYAMAMOTO_LL.png'
 author: "Bianca Nozaki-Nasser"
 blurb: “Join 18MR in thanking Mia Yamamoto for her life long commitment to fighting against incarceration, racism, and transmisogyny. ”
 Tweet: “Join 18MR in thanking Mia Yamamoto for her life long commitment to fighting against incarceration, racism, and transmisogyny.”
@@ -24,19 +24,19 @@ As a lawyer, you committed to using your career to combat the inequities faced b
 
 It wasn’t until 2003, nearly 16 years ago, that you would come out as trans yourself. You risked losing everything: your friends, family, clients, and even your life when you made the difficult decision to publicly transition at age 60. A choice that made you the first openly transgender lawyer in California. <b>Thank you for using your vulnerability and visibility to show young activists that Asian American trans elders, who are so often erased from history,  are indispensable members of our movement. </b>
 
- <img src="/static/images/featured/Mia_LiberationDay.png" title="portrait" alt="Mia Liberation Day">
+ <img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/Mia_LiberationDay.png" title="portrait" alt="Mia Liberation Day">
  <center><sub><sup><i>ABOVE: A still of Mia Yamamoto (middle right) from video "Liberation Day" </i></sup></sub></center> 
 
 This year, I was fortunate to meet you in person as we boarded the [Vigilant Love](https://www.vigilantlove.org/who-we-are) bus in Little Tokyo. That morning we introduced ourselves to one another as two nikkei daughters, together making the [annual pilgrimage to the Manzanar incarceration camp](https://www.youtube.com/watch?v=AsmB7CTMSuo) for the first time. You told me:
 
  > # “Imagine that we are getting into this bus right now, and have no idea where we are going, what is waiting for us, or how long we’ll be there.” 
 
- <img src="/static/images/featured/MIA_BIANCA.png" title="portrait" alt="Mia and Bianca">
+ <img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/MIA_BIANCA.png" title="portrait" alt="Mia and Bianca">
 <center><sub><sup><i>ABOVE: Mia Yamamoto (left) and Bianca Nozaki-Nasser (right) </i></sup></sub></center> 
 Unfortunately, I do imagine this, all the time. As a Japanese-Lebanese-Syrian-American, my family has been personally affected by both Japanese incarceration and the current wave of Islamophobic policy and violence. <b>Your decades of work remind us that we are not currently experiencing a particularly violent moment in time. Rather, we are living through a continued history of persecution, discrimination, and violence. The horrors of mass incarceration have been, and continue to be, the reality for many. This moment of reflection with you is an affirmation that we cannot be free until our queer, trans, black, brown, and Muslim siblings are also free.</b>
 
 
- <img src="/static/images/featured/Mia_Bus.jpg" title="portrait" alt="Mia on Bus">
+ <img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/Mia_Bus.jpg" title="portrait" alt="Mia on Bus">
  <center><sub><sup><i>ABOVE: Mia Yamamoto addressing the Vigilant Love Bus by Daren Mookoe </i></sup></sub></center> 
 
 For all these reasons, I want to thank you for continuing to show up, Mia. <b>Thank you for getting up at 5:00 am that morning to board that bus in Little Tokyo with me. Thank you for speaking to us and making sure that the next generation of Asian American activists knows our history. Thank you for letting us know how much work is still left to do. </b>

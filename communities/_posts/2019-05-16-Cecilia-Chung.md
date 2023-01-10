@@ -3,7 +3,7 @@ layout: post
 title: "Love Letters to Movement Leaders: Cecilia Chung"
 category: communities
 tags: featured
-featured-image: '/static/images/featured/CCHUNG_LL.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/CCHUNG_LL.png'
 author: "Turner Willman"
 blurb: "Thank you Cecilia Chung, for working to end discrimination and violence and protecting trans and HIV+ communities."
 tweet: "Thank you Cecilia Chung, for working to end discrimination and violence and protecting trans and HIV+ communities."
@@ -26,7 +26,7 @@ In 1994, you were a member of San Francisco's Transgender Discrimination Task Fo
 
 You've also worked for UCSF AIDS Health Project as an HIV test counselor and as the HIV program coordinator for the API American Health Forum. You were even appointed to the Presidential Advisory Council on HIV/AIDS under President Obama. Because of your work in public health, my trans loved ones can access live-saving and gender-affirming healthcare in San Francisco.
 
-<img src="/static/images/featured/Chung _WM.jpg" title="portrait" alt="Cecilia-Chung">
+<img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/Chung _WM.jpg" title="portrait" alt="Cecilia-Chung">
 
  <center><sub><sup><i>ABOVE: Cecilia Chung speaking at the San Francisco Women's March in 2018.</i></sup>
  </sub></center>

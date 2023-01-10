@@ -5,7 +5,7 @@ permalink: /2014/04/hot-summer-oklahoma-sun.html
 slug: hot-summer-oklahoma-sun
 category: identities
 author: Maggie Hundley
-featured-image: '/static/images/featured/2014-04-13-hot-summer-oklahoma-sun.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-04-13-hot-summer-oklahoma-sun.png'
 featured-alt-text: "A collage of three images: on the left, an old photograph of a young Native American woman in a white shirt, dark skirt, and tie. On the top right, a pair of women, one older and one younger, standing in a field, hugging. On the bottom right, a woman in a t-shirt and shorts holding a very young baby."
 tweet: ".@creekleo writes about why #NotYourMascot is more than just about sports teams: "
 facebook: "Was I the vanquished Indian, riding the horse whose head hangs low in the painting on the wall? Or was I the one that sifted the corn through Great Grandma Susie’s charred basket?"

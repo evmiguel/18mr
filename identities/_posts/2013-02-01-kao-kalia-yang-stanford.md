@@ -4,7 +4,7 @@ title: "Catch Kao Kalia Yang's Stanford talk online tomorrow afternoon!"
 category: culture
 tags:
 author: 18millionrising
-featured-image: '/static/images/featured/2013-02-01-kalia.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-02-01-kalia.jpg'
 featured-alt-text: "A photo portrait of Kao Kalia Yang looking at a distant, wearing a green blouse and red cardigan."
 tweet: "Kao Kalia Yang discusses ethnic bias on NPR #yellowrain Sat 2/2 1:55PM PST youtube.com/18millionrising @stanfordaasa"
 facebook: "Kao Kalia Yang discusses ethnic bias on NPR #yellowrain Sat 2/2 1:55PM PST youtube.com/18millionrising @stanfordaasa"

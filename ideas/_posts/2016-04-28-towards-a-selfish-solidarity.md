@@ -4,7 +4,7 @@ title: "Towards a Selfish Solidarity: Building Deep Investment in the Movement f
 category: ideas
 tags: featured
 author: "Sasha W."
-featured-image: '/static/images/featured/2016-04-28-towards-a-selfish-solidarity.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-04-28-towards-a-selfish-solidarity.jpg'
 featured-alt-text: "A group of South Asian American protestors outside, smiling, holding signs with messages like 'Tone down police aggression' and It could be my grandpa! (sad smiley face)'"
 tweet: "Sasha W. explores 'selfish solidarity': how we go from saying %23BlackLivesMatter to living it."
 facebook: "Sasha W. explores 'selfish solidarity': how we go from saying #BlackLivesMatter to living it."

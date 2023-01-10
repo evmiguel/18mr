@@ -3,7 +3,7 @@ layout: post
 title: "MEET MY IMMIGRANT MOM"
 category: communities
 author: Cynthia Brothers
-featured-image: '/static/images/featured/2013-03-12-meet-my-immigrant-mom.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-03-12-meet-my-immigrant-mom.jpg'
 featured-alt-text: "A mother and daughter hug and smile at the camera. The daughter wears a coral tank top. The mother wears a light yellow collared shirt. They both wear conference lanyards."
 tweet: "We Belong Together: Meet My #Immigrant Mom - submit yours! #18MR @NAPAWF @domesticworkers"
 facebook: "Help tell the story of immigrant women through photos of people you love.  If you have an immigrant mom (or have friends who do), you can submit a picture and description about your mom, where she lives, and something special you'd like to share about her to the 'Meet My Immigrant Mom' tumblr."

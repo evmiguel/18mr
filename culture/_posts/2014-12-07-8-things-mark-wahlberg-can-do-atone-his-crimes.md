@@ -6,7 +6,7 @@ slug: 8-things-mark-wahlberg-can-do-atone-his-crimes
 category: culture
 tags: featured
 author: Cayden Mak
-featured-image: '/static/images/featured/2014-12-07-8-things-mark-wahlberg.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-12-07-8-things-mark-wahlberg.jpg'
 featured-alt-text: "Mark Wahlberg, clean shaven and wearing a suit and tie, smiles as he is lit from the front against a black background. The photograph is of his shoulders and head, and he is in 3/4 profile."
 tweet: "Now that we've got your attention, what can @mark_wahlberg do to show he's changed?"
 facebook: "Here are some transformative ideas for Mark Wahlberg, if he really wants to prove he's sorry."

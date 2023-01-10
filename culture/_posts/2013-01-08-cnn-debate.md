@@ -4,7 +4,7 @@ title: "CNN Panel Debates 'Make Me Asian' App"
 category: culture
 tags:
 author: 18MillionRising.org
-featured-image: '/static/images/featured/2013-01-08-cnn-debate.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-01-08-cnn-debate.png'
 featured-alt-text: "A CNN panel consisting of one black man, three white men, and one Asian woman discussing the asian maker app. The men listen and look at the Asian woman as she speaks."
 tweet: ".@CNN panel on 'Make me Asian' app misses the point, several times over #18MR"
 facebook: "@CNN panel on 'Make me Asian' app misses the point, several times over #18MR"

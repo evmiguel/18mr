@@ -5,7 +5,7 @@ permalink: /2013/03/social-and-economic-value-family-visas.html
 slug: social-and-economic-value-family-visas
 category: ideas
 author: Karthick Ramakrishnan
-featured-image: '/static/images/featured/2013-03-19-social-and-economic-value-family-visas.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-03-19-social-and-economic-value-family-visas.png'
 featured-alt-text: "A photograph of Sen. Mazie Hirono, wearing a blue suit on a yellow background. The text reads: '...as we're focused on employment-based immigration, we should not get tunnel vision and forget the human element of immigration. Of course I am talking about the need to expand the opportunities for families to be reunited and kept together. And this should include LGBT families. Family based immigration is essential to ensure the continued vitality of the American economy. In fact, the success of immigrants in this country is often the story of the success of immigrants with their families. I speak from personal experience being an immigrant myself.' - Senator Mazie Hirono"
 tweet: "Why family-based visas are crucial to American economy #18MR #18millionhearts @karthickr"
 facebook: "With siblings and adult children with spouses potentially on the chopping block for family-based visas, there is an urgent need for decision makers to recognize how family-based immigrants conrtibute just as much to a vibrant and successful economy as hi-skilled immigrants. Karthick Ramakrishnan, director of the National Asian American Survey, points to studies showing that family-based immigrants strengthen communities through their labor, entrepreneurship, help with child care, and more."

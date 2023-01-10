@@ -4,7 +4,7 @@ title: "Celebrating 40: What does Roe v. Wade Mean for API Women?"
 category: identities
 tags:
 author: NAPAWF
-featured-image: '/static/images/featured/2013-01-24-napawf-capitol.JPG'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-01-24-napawf-capitol.JPG'
 featured-alt-text: 
 tweet: "40th Anniversary of Roe v. Wade: What does it mean for API women? @napawf #18MR"
 facebook: "40th Anniversary of Roe v. Wade: What does it mean for API women? A message from @napawf"

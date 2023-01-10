@@ -5,7 +5,7 @@ permalink: /2014/10/ferguson-aapi-solidarity.html
 slug: ferguson-aapi-solidarity
 category: ideas
 author: PaKou Her
-featured-image: '/static/images/featured/2014-10-20-ferguson-aapi-solidarity.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-10-20-ferguson-aapi-solidarity.jpg'
 featured-alt-text: "A handpainted banner reading 'Asian America Against Police Brutality NAKASEC KRC...' Part of the text is cut off by the cropping."
 tweet: "18MR's @pakouher explores Ferguson, AAPIs, & performative solidarity"
 facebook: "What is more difficult to exercise than public performative solidarity is living into sustained, long-term solidarity that doesn’t exist in front of a television camera or behind a mic on a large stage. This is the challenge."

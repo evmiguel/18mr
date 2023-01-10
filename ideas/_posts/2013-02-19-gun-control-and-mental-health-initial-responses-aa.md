@@ -5,7 +5,7 @@ permalink: /2013/02/gun-control-and-mental-health-initial-responses-aa.html
 slug: gun-control-and-mental-health-initial-responses-aa
 category: ideas
 author: Alice Wong
-featured-image: '/static/images/featured/2013-02-19-gun-control-and-mental-health-initial-responses-aa.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-02-19-gun-control-and-mental-health-initial-responses-aa.jpg'
 featured-alt-text: "A caution road sign reads 'MENTAL HEALTH.'"
 tweet: "Gun Control & Mental Health: Initial reponses from AAPI advocates #18MR @SFdirewolf"
 facebook: "18MR blog contributor and disability activist Alice Wong speaks to advocates on AAPI mental health about the (often misleading) links between mental health and gun violence, and the mental health needs specific to the AAPI community."

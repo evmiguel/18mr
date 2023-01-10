@@ -3,7 +3,7 @@ layout: post
 title: "Why I Support Affirmative Action: One Asian American Perspective"
 category: communities
 author: Jason Fong
-featured-image: '/static/images/featured/2014-03-19-why-i-support-affirmative-action-one-asian-america.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-03-19-why-i-support-affirmative-action-one-asian-america.jpg'
 featured-alt-text: "Two young teammates with backpacks, wearing sweatpants, smile in front of a school building."
 tweet: "14-year-old Redondo Union High School student Jason Fong supports #SCA5. #edu4all #noLiesnoHate "
 facebook: "SCA5 raised the ire of some Asian American organizations who felt it would hurt Asian American applicants by decreasing the available spots on college campuses. Some, such as the 80-20 National Asian American Political Action Committee, have gone so far as to say that 'SCA5 is a ‘Yellow Peril Act’, a 21st century version of the ‘Chinese Exclusion Act of 1882’, aimed specifically to impose a quota-like ceiling on the AsAm students. . . .'"

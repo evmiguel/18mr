@@ -5,7 +5,7 @@ permalink: /2014/09/convo_race_6yo.html
 slug: convo_race_6yo
 category: identities
 author: PaKou Her
-featured-image: '/static/images/featured/2014-09-12-convo_race_6yo.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-09-12-convo_race_6yo.jpg'
 featured-alt-text: "Two selfies: both of a 6-year-old, a 4-year-old, and an adult with glasses and red lipstick. In the top image, they gaze seriously at the camera. In the second, they grin with open mouths, like they just heard a hilarious joke."
 tweet: ".@pakouher talks about race and difference. With her 6-year-old. "
 facebook: "It's not always easy talking about racism and discrimination with young children. PaKou Her, 18MR Campaign Director, shares one such conversation with her own child."

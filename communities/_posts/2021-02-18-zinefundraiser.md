@@ -3,7 +3,7 @@ layout: post
 title: These Zines Fund Community Safety in Chinatown and Ethnic Studies
 category: communities
 tags: featured
-featured-image: '/static/images/featured/combo_pack_an.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/combo_pack_an.png'
 author: ‘18 Million Rising Staff’’
 blurb: “We can reimagine community safety without being anti-Black or pro-police”
 tweet: "We can reimagine community safety without being anti-Black or pro-police"

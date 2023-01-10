@@ -3,7 +3,7 @@ layout: post
 title: "Stepping into Echoes of the Past"
 category: communities
 tags: featured
-featured-image: "/static/images/featured/2018-04-23-stepping-into-echoes.jpg"
+featured-image: "https://storage.googleapis.com/18mr-static-assets/static/images/featured/2018-04-23-stepping-into-echoes.jpg"
 author: "Taz Ahmed"
 blurb: "After the Muslim Ban was released, people kept talking about how we won’t let history repeat itself. It’s hard to believe it when this part of American history has been easily buried."
 tweet: "How can we prevent history from repeating itself if we erase its traces%3F %40tazzystar on the prehistory and future of the Muslim Ban %23NoMuslimBanEver"

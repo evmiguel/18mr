@@ -4,7 +4,7 @@ title: "A Message In Hindsight: Not One More"
 category: identities
 tags: 
 author: Banny Chen
-featured-image: '/static/images/featured/2016-10-03-a-message-in-hindsight.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-10-03-a-message-in-hindsight.jpg'
 featured-alt-text: "The author, Banny Chen, stands with his cousin, Danny Chen, who is dressed in military uniform. "
 tweet: "5 years after Danny Chen's death, his cousin Banny is still waiting for military hazing reforms"
 facebook: "Five years after the alleged suicide of Private Danny Chen, his cousin Banny reflects on the senseless loss of his cousin and a friend, and the need for military reform to address the sort of hazing that led to Danny's death."

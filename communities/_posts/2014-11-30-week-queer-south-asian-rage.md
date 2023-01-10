@@ -3,7 +3,7 @@ layout: post
 title: "A Week of Queer South Asian Rage"
 category: communities
 author: QSANN, the Queer South Asian National Network
-featured-image: '/static/images/featured/2014-11-30-a-week-of-queer.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-11-30-a-week-of-queer.jpg'
 featured-alt-text: "A drawing with the headline 'Black & Brown Lives Matter' features Michael Brown in the center. Clockwise, from the right, an immigration detention center; an ICE officer with a shotgun; a line of migrants in chains; and a police officer with a drawn pistol pointing at a Black man on his knees."
 tweet: "QSANN's statement on Obama's executive action, Ferguson:"
 facebook: "We are a nation of laws that do not protect us. We are a nation of laws designed to keep us out, to keep us scared, and to keep us running."

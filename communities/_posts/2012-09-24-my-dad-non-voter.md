@@ -2,7 +2,7 @@
 layout: post
 title: "My Dad: The Non-Voter"
 category: communities
-featured-image: '/static/images/featured/2012-09-24-my-dad-non-voter.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2012-09-24-my-dad-non-voter.jpg'
 featured-alt-text: "An older Chinese American man in glasses, a brown blazer, and a hat stands beside his daughter, a wheelchair user wearing a blue jacket and a white sweater." 
 author: Alice Wong
 tweet: "#MyAAPIVote: how @SFdirewolf got her dad to vote for the first time."

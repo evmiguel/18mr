@@ -5,7 +5,7 @@ permalink: /2013/05/18MR-launches-thank-you-mom-project.html
 slug: 18MR-launches-thank-you-mom-project
 category: releases
 author: PaKou Her
-featured-image: '/static/images/featured/2013-05-07-18MR-launches-thank-you-mom-project.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-05-07-18MR-launches-thank-you-mom-project.png'
 featured-alt-text: "A tag cloud with the word 'mom' in a variety of different languages."
 tweet: "18MR wants to thank your mom! #TYMom"
 facebook: "With AAPI Heritage Month upon us and Mother's Day just around the corner, 18MR launches a new initiative: #TYMom (Thank You Mom) -- to express gratitude to and illustrate the importance of moms and families."

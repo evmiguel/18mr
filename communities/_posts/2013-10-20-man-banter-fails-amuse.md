@@ -3,7 +3,7 @@ layout: post
 title: "'Man Banter' Fails to Amuse"
 category: communities
 author: Cayden Mak
-featured-image: '/static/images/featured/2013-10-20-man-banter-fails-amuse.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-10-20-man-banter-fails-amuse.png'
 featured-alt-text: "A photo of a smug white man in a polo shirt with an overlay that reads, 'I want to buy an umbrella that comes with an Asian girl.' - Mke Babchik, SiriusXM Producer"
 tweet: "#firebabchik Mike @Babchik does work for @siriusxm: he's a producer at @maddogsports. More:"
 facebook: "Contrary to his claims, Mike Babchik DOES work fro SiriusXM: he's a producer at Mad Dog Sports."

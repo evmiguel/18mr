@@ -5,7 +5,7 @@ permalink: /2013/05/aapis-mental-illness-2013-snapshot.html
 slug: aapis-mental-illness-2013-snapshot
 category: identities
 author: Alice Wong
-featured-image: '/static/images/featured/2013-05-16-aapis-mental-illness-2013-snapshot.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-05-16-aapis-mental-illness-2013-snapshot.png'
 featured-alt-text: "A group photo featuring AAPIs of different genders and ethnicities and ages at a 2012 APIDC event featuring Rep. Tammy Duckworth. Three sit in wheelchairs, and all smile at the camera."
 tweet: "For Mental Health Month, @sfdirewolf on barriers to care faced by AAPIs w/mental illness #18MR"
 facebook: "In addition to AAPI Heritage Month, May is also Mental Health Month. 18MR member and disability activist Alice Wong reviews findings from a survey she conducted with other members of Asians & Pacific Islanders with Disabilities of CA (APIDC) -- and the multiple challenges facing AAPIs with mental illness."

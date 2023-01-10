@@ -2,7 +2,7 @@
 layout: post
 title: "Join the Oak Creek Sikh Community on 2 campaigns to #endhate"
 category: communities
-featured-image: '/static/images/featured/2012-11-21-be-proud-heritage-day.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2012-11-21-be-proud-heritage-day.jpg'
 featured-alt-text: "An elderly Sikh man and child are pictured holding one another closely, gazing at something off camera." 
 tweet: "Join the Oak Creek Sikh community on 2 campaigns to end hate!"
 facebook: "Join the Oak Creek Sikh community on 2 campaigns to end hate!"

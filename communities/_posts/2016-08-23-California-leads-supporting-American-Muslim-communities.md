@@ -3,7 +3,7 @@ layout: post
 title: "California Leads in Supporting American Muslim Communities"
 category: communities
 author: "Zahra Billoo"
-featured-image: '/static/images/featured/2016-08-23-California-leads.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-08-23-California-leads.jpg'
 featured-alt-text: "The author welcomes a crowd of over 600 California Muslims to the Capitol in 2016, where they gathered to advocate for several key legislative priorities including AB 2845."
 tweet: "California's AB 2845 is needed to combat Islamophobia in the classroom, writes @ZahraBilloo"
 facebook: "Amidst a virulent climate of Islamophobia, California has the opportunity to take proactive steps to ensure American Muslim students feel safe and supported in the classroom, writes CAIR-SFBA Executive Director Zahra Billoo."

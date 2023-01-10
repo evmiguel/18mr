@@ -5,7 +5,7 @@ permalink: /2013/02/whole-enchilada-blueprint-leaves-something-be-desi.html
 slug: whole-enchilada-blueprint-leaves-something-be-desi
 category: ideas
 author: Justin Valas
-featured-image: '/static/images/featured/2013-02-13-whole-enchilada-blueprint-leaves-something-be-desi.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-02-13-whole-enchilada-blueprint-leaves-something-be-desi.jpg'
 featured-alt-text: "A carved plaque commemortating Angel Island reads: In 1910, the Immigration Station was moved from the San Francisco waterfront to Angel Island. Like Ellis Island in New York, Angel Island offered an isolated location that could be tightly controlled. Unlike Ellis Island, Angel Island came to symbolize discrimination and exclusion instead of welcome. As the primary point of entry on the west coast, this facility enforced the Chinese Exclusion Act and subsequent federal laws that restricted the immigration of 'undesirable' groups."
 tweet: "Organizer Justin Valas on how Senate & POTUS immigration plans fall short #18MR"
 facebook: "A couple weeks out from the Senate and President Obama releasing their immigrations plans, Japanese American organizer Justin Valas weights in on the two proposals, and where they could fall short on their principles for humane reform."

@@ -4,7 +4,7 @@ title: "Dante Basco & KevJumba 'Hang Loose'"
 category: culture
 tags:
 author: Dante Basco
-featured-image: '/static/images/featured/2013-02-05-hang-loose.JPG'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-02-05-hang-loose.JPG'
 featured-alt-text: "Two Asian American men, Dante Basco and Kevin Wu aka KevJumba, stand next to each other with the beach as a backdrop. Kevin is wearing a blue polo with a camera around his neck doing a shaka sign. Dante is wearing a hat and a white blouse. He is standing next to Kevin while giving him a side-eye."
 tweet: "Dante Basco on his new production company & film Hang Loose w/KevJumba #18MR @hangloosemovie"
 facebook: "Actor and producer Dante Basco sounds off in this 18MR exclusive about his new comedy, 'Hang Loose'"
@@ -25,7 +25,7 @@ But what we're faced with is an industry that hires based on race and what you l
 
 I'm very proud to be a part of the team putting this company together, [Kinetic Films](http://www.kineticproductions.net/kineticfilms/home.html). I found myself at a place in my career where it was time to really earn some of these role model and achievement awards. It's time to not just lead by the quality of my acting work; but to lead by producing content and employing Asian Americans; to help nurture and culivate the next generation, actors like Kevin Wu and directors like Ryan Kawamoto. We're slated to put out four films a year. We've finished filming our first three and I'm currently writing the fourth, a musical for AJ Rafael called <strong>Red Roses </strong>.
 
-![Dante Basco, an Asian American man, looks up while tying up Kevin Wu aka KevJumba, another Asian American man, by his ankles and hands with rope. He is lying on a coffee table.](/static/images/blog/2013-02-05-hang-loose-2.jpg) Dante Basco and Kevin Wu aka KevJumba in "[Hang Loose](http://www.hangloosemovie.com/).
+![Dante Basco, an Asian American man, looks up while tying up Kevin Wu aka KevJumba, another Asian American man, by his ankles and hands with rope. He is lying on a coffee table.](https://storage.googleapis.com/18mr-static-assets/static/images/blog/2013-02-05-hang-loose-2.jpg) Dante Basco and Kevin Wu aka KevJumba in "[Hang Loose](http://www.hangloosemovie.com/).
 
 Making these movies and helping to create this genre for our community is amazing. It's so much bigger than me and my career; it's bigger than any of us involved. The Asian American explosion in America is about to happen; we are on the cusp of it all -- whether it's through film, music, or all the great talent coming from YouTube. It's our time and we're developing our voice as a community. But not only do we have to create it, we have to support it. Sure, some Asian American performers will cross over into the mainstream, but if we create and support our own content and talent, we will always have a viable voice in American media and pop culture.
 

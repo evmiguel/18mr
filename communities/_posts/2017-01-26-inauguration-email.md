@@ -3,7 +3,7 @@ layout: post
 title: "The Next Four Years"
 category: communities
 author: "Oanh-Nhi Nguyen"
-featured-image: '/static/images/featured/GLB.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/GLB.png'
 featured-alt-text: "Picture of Grace Lee Boggs sitting on a sofa chair with her quote: A revolution that is based on the people exercising their creativity in the midst of devastation is one of the great historical contributions of humankind."
 blurb: "Today, Donald Trump is taking oath of office to become the 45th U.S. President. We are filled with worry about what the future might hold and we remain steadfast in our commitment to you."
 tweet: ".%4018MillionRising.org's commitments for the next four years. %23AsiansResist"

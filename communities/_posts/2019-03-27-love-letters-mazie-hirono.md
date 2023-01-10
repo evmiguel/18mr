@@ -3,7 +3,7 @@ layout: post
 title: "Love Letters to Movement Leaders: Mazie Hirono"
 category: communities
 tags: featured
-featured-image: '/static/images/featured/Mazie_LL.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/Mazie_LL.png'
 author: "Laura Li"
 blurb: "March is Women’s History Month and we're dedicating this letter to Mazie Hirono -- and all the Asian American badass women calling out the haters around them."
 tweet: "Mazie%20Hirono%20won%27t%20take%20any%20of%20your%20bullshit.%20After%20reading%20this%2C%20you%27ll%20want%20to%20write%20a%20love%20letter%20to%20her%2C%20too."
@@ -28,7 +28,7 @@ I hope he ate his words because you won more votes during that election than Cay
 
 When you were elected to the U.S. Senate in 2012, <b>you became the first Asian American woman Senator. You’ve been raising hell ever since.</b> 
 
-<img src="/static/images/featured/mazie_body.png" title="portrait" alt="mazie-hirono">
+<img src="https://storage.googleapis.com/18mr-static-assets/static/images/featured/mazie_body.png" title="portrait" alt="mazie-hirono">
 
  <center><sub><sup><i>ABOVE: Mazie Hirono by Luisa Dörr for Time</i></sup></sub></center>
 

@@ -3,7 +3,7 @@ layout: post
 title: "Fighting (and Voting) for the Internet Asian Americans Know, Love, and Need"
 category: culture
 author: Mark Tseng Putterman
-featured-image: '/static/images/featured/2016-08-18-fighting-voting-internet-asian-americans-know-love-need.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2016-08-18-fighting-voting-internet-asian-americans-know-love-need.png'
 featured-alt-text: "A child sits in front of a laptop computer with their arms raised in triumph. In the background is a collage of images depicting various trends in Asian American online popular culture and political organizing."
 tweet: "AAPIs are using online tools to break down barriers. This November, we can't take an open internet for granted via @18millionrising"
 facebook: "Thanks to Net Neutrality, Asian American cultural and political innovation is thriving online. This November, our votes should reflect the need to defend our rights online from corporate gatekeeping."

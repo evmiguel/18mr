@@ -4,7 +4,7 @@ title: "18MR Asks: What Happens When You Make Asians 'Asians'?"
 category: culture
 tags:
 author: 18MillionRising.org
-featured-image: '/static/images/featured/2013-01-10-takeiasianmaker.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-01-10-takeiasianmaker.jpg'
 featured-alt-text: "George Takei, Asian American man's picture after it is submitted to the Asian Maker app. He wears a straw hat and has a long mustache."
 tweet: "What happens when you make Asian celebrities 'Asian'? #makemeracist #18MR"
 facebook: "What happens when you make Asian celebrities 'Asian'? #makemeracist #18MR"

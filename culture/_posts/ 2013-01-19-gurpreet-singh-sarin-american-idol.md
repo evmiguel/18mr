@@ -4,7 +4,7 @@ title: "The Turban(ator) Goes Mainstream"
 category: culture
 tags:
 author: Sonny Singh
-featured-image: '/static/images/featured/2013-01-19-gurpreet-singh-sarin-american-idol.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-01-19-gurpreet-singh-sarin-american-idol.png'
 featured-alt-text: "A Sikh man, Gurpreet Singh Sarin, walks out onto American Idol's contesting stage. He is wearing a purple turban, a black vest, and purple and white flannel."
 tweet: "The Turban(ator) Goes Maintream: 1st Sikh on American Idol @langarhall #18MR"
 facebook: "The Turban(ator) Goes Maintream: 1st Sikh on American Idol @langarhall #18MR"

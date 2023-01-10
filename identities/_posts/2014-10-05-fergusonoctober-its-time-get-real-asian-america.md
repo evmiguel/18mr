@@ -5,7 +5,7 @@ permalink: /2014/10/fergusonoctober-its-time-get-real-asian-america.html
 slug: fergusonoctober-its-time-get-real-asian-america
 category: identities
 author: PaKou Her
-featured-image: '/static/images/featured/2014-10-05-fergusonoctober-its-time-get-real-asian-america.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-10-05-fergusonoctober-its-time-get-real-asian-america.jpg'
 featured-alt-text: "A stylized silhouette of a Black man on a pink background, with his hands spread in the air, wearing a t-shirt reading 'HANDS UP, DON'T SHOOT.'"
 tweet: "18MR Campaign Director @pakouher is going to #FergusonOctober. Here's why: "
 facebook: "Today, I’m getting into the car and driving 4 hours across the state of Missouri to participate in #FergusonOctober. I’m anxious, nervous, hopeful, and scared. To tell the truth, I’m intensely scared after Wednesday’s police-related shooting that ended in the death of Vonderrit Myers Jr., and which contributed to last night’s protests, tear gassing, and shameless police intimidation."

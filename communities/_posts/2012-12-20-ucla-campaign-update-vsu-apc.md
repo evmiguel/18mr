@@ -3,7 +3,7 @@ layout: post
 title: "UCLA Campaign Update from VSU & APC"
 category: communities
 author: 18MillionRising.org
-featured-image: '/static/images/featured/2012-12-20-vsuchancellormtg.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2012-12-20-vsuchancellormtg.png'
 featured-alt-text: "A black-haired person in a suit and tie sits at a conference table at VSU and APC's meeting with Chancellor Gene Block."
 tweet: "A positive update from VSU & APC on UCLA's campaign against campus hate!"
 facebook: "A positive update from VSU & APC on UCLA's campaign against campus hate!"

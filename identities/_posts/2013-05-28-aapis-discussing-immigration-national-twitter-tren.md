@@ -5,7 +5,7 @@ permalink: /2013/05/aapis-discussing-immigration-national-twitter-tren.html
 slug: aapis-discussing-immigration-national-twitter-tren
 category: identities
 author: C.M. Samala
-featured-image: '/static/images/featured/2013-05-28-aapis-discussing-immigration-national-twitter-tren.png'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-05-28-aapis-discussing-immigration-national-twitter-tren.png'
 featured-alt-text: "A screenshot of a Tweet from C.M. Samala reading: 'YO. #18millionhearts is trending in the United States!' with a screenshot of the trends attached. It has 9 retweets and 10 likes."
 tweet: "#18MillionHearts trends nationally!"
 facebook: "Thanks to the participation of our amazing community, we managed to do something really incredible on Twitter: we turned our #18MillionHearts for Immigration Reform chat into a U.S. trend."

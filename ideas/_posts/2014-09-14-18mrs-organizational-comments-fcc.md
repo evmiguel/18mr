@@ -5,7 +5,7 @@ permalink: /2014/09/18mrs-organizational-comments-fcc.html
 slug: 18mrs-organizational-comments-fcc
 category: ideas
 author: Cayden Mak
-featured-image: '/static/images/featured/2014-09-14-18mrs-organizational-comments-fcc.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2014-09-14-18mrs-organizational-comments-fcc.jpg'
 featured-alt-text: "A collage featuring Chinese artist Ai Weiwei, a green tank with the text 'Ferguson 2014', protestors in the streets, and a drawing of a Black man with his hands up is overlayed with the text 'But the internet is like a tree that is growing. The people will always have the last word - even if someone has a very weak, quiet voice. Such power will collapse because of a whisper.' - Ai Weiwei. 'Protect the internet. #Fight4NetRights'"
 tweet: "Read @18millionrising's comments to the @FCC: why AAPIs are #TeamInternet."
 facebook: "Net neutrality is a crucial protection for the economic, civic, and creative lives of Asian American communities. There are few racial demographics so well-connected, for everything from commerce and the arts to political expression to keeping up with family. For these reasons, we believe Title II reclassification is in the best interests of our community, and for the preservation of key rights as emerging players in the American political landscape."

@@ -3,7 +3,7 @@ layout: post
 title: "KRCC's Randy Kim on engaging the Chicago Korean American community"
 category: communities
 author: "Randy Kim"
-featured-image: '/static/images/featured/2012-11-30-krcc-chicago.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2012-11-30-krcc-chicago.jpg'
 featured-alt-text: "Randy Kim holds a blown-up voter registration form, surrounded by people doing voter outreach for KRCC with signs in English and Korean."
 tweet: "Randy Kim on getting out the Asian American vote in Chicago"
 facebook: "Randy Kim, Immigrant Rights Organizer for 18MR partner Korean American Resource Cultural Center (KRCC), shares successes and lessons learned from civically engaging the Chicago Korean American community."

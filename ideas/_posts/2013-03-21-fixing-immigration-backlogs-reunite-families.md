@@ -5,7 +5,7 @@ permalink: /2013/03/fixing-immigration-backlogs-reunite-families.html
 slug: fixing-immigration-backlogs-reunite-families
 category: ideas
 author: Meeran Mahmud
-featured-image: '/static/images/featured/2013-03-21-fixing-immigration-backlogs-reunite-families.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-03-21-fixing-immigration-backlogs-reunite-families.jpg'
 featured-alt-text: "A Pakistani American mother and daughter smile at the camera. Both have long black hair and are wearing short-sleeved shirts."
 tweet: "How our broken immigration system keeps families separated @apalc #18millionhearts #18MR"
 facebook: "Under our current immigration system, immigrants can wait years -- even decades -- to be reunited with loved ones overseas due to visa limits and massive backlogs. 18MR partner Asian Pacific American Legal Center's (APALC) Meeran Mahmud shares her family's story. Sign our #18millionhearts immigration reform petition to show your support and affirm the importance of family-based immigration to the vitality of our American communities."

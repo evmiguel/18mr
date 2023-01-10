@@ -5,7 +5,7 @@ permalink: /2013/04/through-long-winter-look-back-radiolabs-yellow-rai.html
 slug: through-long-winter-look-back-radiolabs-yellow-rai
 category: culture
 author: Kao Kalia Yang
-featured-image: '/static/images/featured/2013-04-05-through-long-winter-look-back-radiolabs-yellow-rai.jpg'
+featured-image: 'https://storage.googleapis.com/18mr-static-assets/static/images/featured/2013-04-05-through-long-winter-look-back-radiolabs-yellow-rai.jpg'
 featured-alt-text: "A young Asian American woman with a shoulder-length haircut gazes seriously and sadly at the camera."
 tweet: "Kao Kalia Yang reflects on NPR's lack of acknowledgment post-Radiolab's Yellow Rain #18MR"
 facebook: "Six months after Radiolab's 'Yellow Rain' segment and resulting public outcry, Kao Kalia Yang shares her ongoing struggle for meaningful acknowledgement from NPR leadership."
